@@ -1,0 +1,5 @@
+<map id="chip::Inet::InterfaceAddressIterator::GetAddress" name="chip::Inet::InterfaceAddressIterator::GetAddress">
+<area shape="rect" id="node1" title="Get the current interface address." alt="" coords="219,39,401,80"/>
+<area shape="rect" id="node2" href="$classchip_1_1_inet_1_1_inet_layer.html#af43de490f2250d5f3800731ee21ffde6" title="Get the interface identifier for the specified IP address." alt="" coords="9,5,167,47"/>
+<area shape="rect" id="node3" href="$classchip_1_1_inet_1_1_inet_layer.html#a8db5ddc6886ac4a31c989e6e64956497" title="Check if there is a prefix match between the specified IPv6 address and any of the locally configured..." alt="" coords="5,71,171,112"/>
+</map>

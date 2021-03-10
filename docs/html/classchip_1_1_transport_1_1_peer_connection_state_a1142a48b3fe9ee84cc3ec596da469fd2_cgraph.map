@@ -1,0 +1,6 @@
+<map id="chip::Transport::PeerConnectionState::Reset" name="chip::Transport::PeerConnectionState::Reset">
+<area shape="rect" id="node1" title="Reset the connection state to a completely uninitialized status." alt="" coords="5,39,216,80"/>
+<area shape="rect" id="node2" href="$classchip_1_1_secure_session.html#a60f20618bc248a0e9f6f0d90302d2560" title="Clears the internal state of secure session back to the state of a new object." alt="" coords="289,5,431,47"/>
+<area shape="rect" id="node3" href="$classchip_1_1_transport_1_1_peer_address.html#ac22cdc60cce102f92fcbd1d5b47a62dc" title=" " alt="" coords="264,71,456,112"/>
+<area shape="rect" id="node4" href="$classchip_1_1_transport_1_1_peer_address.html#ac8fcd6c441f24d1594d2a589178dd1d8" title=" " alt="" coords="504,71,696,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="chip::MessageAuthenticationCode::Decode" name="chip::MessageAuthenticationCode::Decode">
+<area shape="rect" id="node1" title="Decodes the Message Authentication Tag from the given buffer." alt="" coords="5,39,196,80"/>
+<area shape="rect" id="node2" href="$classchip_1_1_packet_header.html#a58849becd9037c14ab8652dc4e54fe5c" title=" " alt="" coords="279,5,421,47"/>
+<area shape="rect" id="node3" href="$classchip_1_1_message_authentication_code.html#a17321e4a87d5a247ae12c31ce5b18b24" title=" " alt="" coords="244,71,456,112"/>
+</map>

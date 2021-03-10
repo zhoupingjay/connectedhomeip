@@ -1,0 +1,12 @@
+<map id="platform/OpenThread/OpenThreadUtils.h" name="platform/OpenThread/OpenThreadUtils.h">
+<area shape="rect" id="node1" title="Utility functions for working with OpenThread." alt="" coords="565,5,709,47"/>
+<area shape="rect" id="node2" href="$cc13x2__26x2_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for CC13X2_26X2 platforms using the Texas..." alt="" coords="5,303,205,344"/>
+<area shape="rect" id="node3" href="$_e_f_r32_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for EFR32 platforms using the Silicon Lab..." alt="" coords="229,303,421,344"/>
+<area shape="rect" id="node4" href="$_generic_thread_stack_manager_impl___free_r_t_o_s_8cpp.html" title="Contains non&#45;inline method definitions for the GenericThreadStackManagerImpl_FreeRTOS&lt;&gt; template." alt="" coords="222,199,407,255"/>
+<area shape="rect" id="node5" href="$_k32_w_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for K32W platforms using the NXP SDK and ..." alt="" coords="445,303,632,344"/>
+<area shape="rect" id="node6" href="$qpg6100_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for the QPG6100 platform using the Qorvo ..." alt="" coords="656,303,856,344"/>
+<area shape="rect" id="node7" href="$_generic_thread_stack_manager_impl___open_thread_8cpp.html" title="Contains non&#45;inline method definitions for the GenericThreadStackManagerImpl_OpenThread&lt;&gt; template." alt="" coords="540,95,735,151"/>
+<area shape="rect" id="node8" href="$_generic_thread_stack_manager_impl___open_thread___lw_i_p_8cpp.html" title="Contains non&#45;inline method definitions for the GenericThreadStackManagerImpl_OpenThread_LwIP&lt;&gt; templa..." alt="" coords="432,199,627,255"/>
+<area shape="rect" id="node9" href="$_zephyr_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for Zephyr platforms." alt="" coords="651,206,842,247"/>
+<area shape="rect" id="node10" href="$_open_thread_utils_8cpp.html" title="Utility functions for working with OpenThread." alt="" coords="968,102,1117,143"/>
+</map>

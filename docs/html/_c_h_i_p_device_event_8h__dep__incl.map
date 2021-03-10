@@ -1,0 +1,156 @@
+<map id="include/platform/CHIPDeviceEvent.h" name="include/platform/CHIPDeviceEvent.h">
+<area shape="rect" id="node1" title="Defines events used by the chip Device Layer to signal actions or changes in device state." alt="" coords="8333,5,8525,47"/>
+<area shape="rect" id="node2" href="$_platform_manager_8h.html" title="Defines the public interface for the Device Layer PlatformManager object." alt="" coords="829,95,995,136"/>
+<area shape="rect" id="node146" href="$cc13x2__26x2_2_c_h_i_p_device_platform_event_8h.html" title="Defines platform&#45;specific event types and data for the chip for the Texas Instruments CC1352 platform..." alt="" coords="7683,95,7877,136"/>
+<area shape="rect" id="node147" href="$_darwin_2_c_h_i_p_device_platform_event_8h.html" title="Defines platform&#45;specific event types and data for the chip Device Layer on Darwin platforms." alt="" coords="7901,95,8093,136"/>
+<area shape="rect" id="node148" href="$_e_f_r32_2_c_h_i_p_device_platform_event_8h.html" title="Defines platform&#45;specific event types and data for the Chip Device Layer on EFR32 platforms using the..." alt="" coords="8117,95,8309,136"/>
+<area shape="rect" id="node149" href="$_e_s_p32_2_c_h_i_p_device_platform_event_8h.html" title="Defines platform&#45;specific event types and data for the CHIP Device Layer on the ESP32." alt="" coords="8333,95,8525,136"/>
+<area shape="rect" id="node150" href="$_k32_w_2_c_h_i_p_device_platform_event_8h.html" title="Defines platform&#45;specific event types and data for the chip Device Layer on K32W061 platforms using t..." alt="" coords="8549,95,8736,136"/>
+<area shape="rect" id="node151" href="$_linux_2_c_h_i_p_device_platform_event_8h.html" title="Defines platform&#45;specific event types and data for the chip Device Layer on Linux platforms." alt="" coords="8761,95,8943,136"/>
+<area shape="rect" id="node152" href="$qpg6100_2_c_h_i_p_device_platform_event_8h.html" title="Defines platform&#45;specific event types and data for the chip Device Layer on QPG6100 platforms." alt="" coords="8968,95,9168,136"/>
+<area shape="rect" id="node153" href="$_zephyr_2_c_h_i_p_device_platform_event_8h.html" title="Defines platform&#45;specific event types and data for the chip Device Layer on Zephyr platforms." alt="" coords="12525,95,12715,136"/>
+<area shape="rect" id="node3" href="$_stack_init_8cpp.html" title=" " alt="" coords="5263,273,5409,315"/>
+<area shape="rect" id="node4" href="$_c_h_i_p_device_layer_8h.html" title=" " alt="" coords="9764,184,9956,225"/>
+<area shape="rect" id="node40" href="$_generic_platform_manager_impl_8cpp.html" title="Contains non&#45;inline method definitions for the GenericPlatformManagerImpl&lt;&gt; template." alt="" coords="1098,370,1318,411"/>
+<area shape="rect" id="node41" href="$_generic_platform_manager_impl___free_r_t_o_s_8cpp.html" title="Contains non&#45;inline method definitions for the GenericPlatformManagerImpl_FreeRTOS&lt;&gt; template." alt="" coords="1159,467,1353,523"/>
+<area shape="rect" id="node42" href="$cc13x2__26x2_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for the Texas Instruments CC1352 platform." alt="" coords="1034,578,1209,619"/>
+<area shape="rect" id="node43" href="$_e_f_r32_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for EFR32 platforms using the Silicon Labs E..." alt="" coords="1463,578,1681,619"/>
+<area shape="rect" id="node44" href="$_e_s_p32_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for the ESP32 platform." alt="" coords="793,578,1010,619"/>
+<area shape="rect" id="node45" href="$_k32_w_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for K32W platforms using the NXP K32W SDK." alt="" coords="1705,578,1917,619"/>
+<area shape="rect" id="node46" href="$qpg6100_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for QPG6100 platforms." alt="" coords="15375,578,15550,619"/>
+<area shape="rect" id="node47" href="$_generic_platform_manager_impl___p_o_s_i_x_8cpp.html" title="Contains non&#45;inline method definitions for the GenericPlatformManagerImpl_POSIX&lt;&gt; template." alt="" coords="1377,467,1572,523"/>
+<area shape="rect" id="node48" href="$_darwin_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for Darwin platforms." alt="" coords="1941,578,2107,619"/>
+<area shape="rect" id="node49" href="$_linux_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for Linux platforms." alt="" coords="1233,578,1439,619"/>
+<area shape="rect" id="node50" href="$_generic_platform_manager_impl___zephyr_8cpp.html" title="Contains non&#45;inline method definitions for the GenericPlatformManagerImpl_Zephyr&lt;&gt; template." alt="" coords="688,467,883,523"/>
+<area shape="rect" id="node51" href="$_zephyr_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for Zephyr platforms." alt="" coords="602,578,769,619"/>
+<area shape="rect" id="node111" href="$_linux_2_thread_stack_manager_impl_8cpp.html" title=" " alt="" coords="347,370,530,411"/>
+<area shape="rect" id="node128" href="$_system_event_support_8cpp.html" title="Provides implementations of the CHIP System Layer platform event functions that are suitable for use ..." alt="" coords="554,377,777,404"/>
+<area shape="rect" id="node129" href="$_system_timer_support_8cpp.html" title="Provides implementations of the CHIP System Layer platform timer functions that are suitable for use ..." alt="" coords="801,377,1023,404"/>
+<area shape="rect" id="node144" href="$_zephyr_2_platform_manager_impl_8h.html" title="Provides an implementation of the PlatformManager object." alt="" coords="1303,184,1470,225"/>
+<area shape="rect" id="node5" href="$_linux_impl_8cpp.html" title=" " alt="" coords="15469,370,15616,411"/>
+<area shape="rect" id="node6" href="$_chip_thread_work_8cpp.html" title=" " alt="" coords="9343,273,9537,315"/>
+<area shape="rect" id="node7" href="$_commissioner_impl_8cpp.html" title=" " alt="" coords="9562,273,9769,315"/>
+<area shape="rect" id="node8" href="$_c_h_i_p_device_layer_internal_8h.html" title=" " alt="" coords="8897,273,9084,315"/>
+<area shape="rect" id="node136" href="$_discovery___impl_platform_8cpp.html" title=" " alt="" coords="9793,273,9927,315"/>
+<area shape="rect" id="node137" href="$_e_s_p32_2_mdns_impl_8cpp.html" title=" " alt="" coords="10003,281,10203,307"/>
+<area shape="rect" id="node138" href="$_service_provisioning_8cpp.html" title=" " alt="" coords="10227,281,10485,307"/>
+<area shape="rect" id="node139" href="$_helper_8cpp.html" title="Provides Bluez dbus implementatioon for BLE." alt="" coords="10509,273,10648,315"/>
+<area shape="rect" id="node140" href="$_main_loop_8h.html" title=" " alt="" coords="15473,273,15612,315"/>
+<area shape="rect" id="node142" href="$_test_identity_8cpp.html" title=" " alt="" coords="10673,281,10837,307"/>
+<area shape="rect" id="node143" href="$_secure_session_mgr_8cpp.html" title="This file implements the CHIP Connection object that maintains a UDP connection." alt="" coords="9108,281,9319,307"/>
+<area shape="rect" id="node9" href="$_device_description_server_8h.html" title="Defines the Device Layer DeviceDescriptionServer object." alt="" coords="10295,370,10476,411"/>
+<area shape="rect" id="node10" href="$_generic_configuration_manager_impl_8cpp.html" title="Contains non&#45;inline method definitions for the GenericConfigurationManagerImpl&lt;&gt; template." alt="" coords="9639,370,9887,411"/>
+<area shape="rect" id="node11" href="$cc13x2__26x2_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for the Texas Instruments..." alt="" coords="11436,474,11639,515"/>
+<area shape="rect" id="node12" href="$_darwin_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for Darwin platforms." alt="" coords="11663,474,11857,515"/>
+<area shape="rect" id="node13" href="$_e_f_r32_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for EFR32 platforms using..." alt="" coords="6744,474,6939,515"/>
+<area shape="rect" id="node14" href="$_e_s_p32_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for the ESP32." alt="" coords="10703,474,10897,515"/>
+<area shape="rect" id="node15" href="$_k32_w_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for K32W platforms using ..." alt="" coords="10042,474,10233,515"/>
+<area shape="rect" id="node16" href="$_linux_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for Linux platforms." alt="" coords="7689,474,7874,515"/>
+<area shape="rect" id="node17" href="$qpg6100_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for QPG6100 platforms ." alt="" coords="10257,474,10460,515"/>
+<area shape="rect" id="node18" href="$_zephyr_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for Zephyr platforms." alt="" coords="10484,474,10679,515"/>
+<area shape="rect" id="node19" href="$_generic_connectivity_manager_impl___thread_8cpp.html" title="Provides an generic implementation of ConnectivityManager features for use on platforms that support ..." alt="" coords="8452,363,8671,419"/>
+<area shape="rect" id="node20" href="$_generic_connectivity_manager_impl___wi_fi_8cpp.html" title="Provides an generic implementation of ConnectivityManager features for use on platforms that support ..." alt="" coords="11189,363,11408,419"/>
+<area shape="rect" id="node21" href="$_e_s_p32_2_connectivity_manager_impl_8cpp.html" title=" " alt="" coords="12097,474,12287,515"/>
+<area shape="rect" id="node22" href="$_generic_device_network_provisioning_delegate_impl_8h.html" title=" " alt="" coords="9231,363,9463,419"/>
+<area shape="rect" id="node38" href="$_generic_network_provisioning_server_impl_8cpp.html" title="Contains non&#45;inline method definitions for the GenericNetworkProvisioningServerImpl&lt;&gt; template." alt="" coords="12312,467,12541,523"/>
+<area shape="rect" id="node39" href="$_generic_network_provisioning_server_impl_8h.html" title=" " alt="" coords="11533,363,11763,419"/>
+<area shape="rect" id="node52" href="$_generic_software_update_manager_impl___b_d_x_8h.html" title="Provides an generic implementation of SoftwareUpdateManager features for use on platforms that suppor..." alt="" coords="10703,370,10990,411"/>
+<area shape="rect" id="node53" href="$cc13x2__26x2_2_b_l_e_manager_impl_8cpp.html" title="Provides an implementation of the BLEManager object for cc13xx_cc26xx platform using the Texas Instru..." alt="" coords="11014,370,11165,411"/>
+<area shape="rect" id="node54" href="$_c_c13_x2__26_x2_config_8cpp.html" title="Utilities for interacting with multiple file partitions and maps key&#45;value config calls to the correc..." alt="" coords="12779,474,12955,515"/>
+<area shape="rect" id="node55" href="$_c_c13_x2__26_x2_config_8h.html" title="Utilities for accessing persisted device configuration on Texas Instruments cc13x2_26x2 SoCs." alt="" coords="11787,370,11949,411"/>
+<area shape="rect" id="node57" href="$cc13x2__26x2_2_connectivity_manager_impl_8cpp.html" title="Platform&#45;specific connectivity manager impl class for the Texas Instruments CC1352 platform." alt="" coords="12750,370,12949,411"/>
+<area shape="rect" id="node58" href="$cc13x2__26x2_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for CC13X2_26X2 platforms using the Texas..." alt="" coords="14308,578,14508,619"/>
+<area shape="rect" id="node59" href="$_darwin_2_b_l_e_manager_impl_8cpp.html" title="Provides an implementation of the BLEManager singleton object for Darwin platforms." alt="" coords="12973,370,13166,411"/>
+<area shape="rect" id="node60" href="$_darwin_2_connectivity_manager_impl_8cpp.html" title=" " alt="" coords="13190,370,13381,411"/>
+<area shape="rect" id="node61" href="$_darwin_2_posix_config_8cpp.html" title="Utilities for interacting with multiple file partitions and maps key&#45;value config calls to the correc..." alt="" coords="13198,481,13413,508"/>
+<area shape="rect" id="node62" href="$_darwin_2_posix_config_8h.html" title="Utilities for accessing persisted device configuration on Darwin platforms." alt="" coords="12024,377,12224,404"/>
+<area shape="rect" id="node64" href="$_e_f_r32_2_b_l_e_manager_impl_8cpp.html" title="Provides an implementation of the BLEManager singleton object for the Silicon Labs EFR32 platforms." alt="" coords="13405,370,13598,411"/>
+<area shape="rect" id="node65" href="$_e_f_r32_2_connectivity_manager_impl_8cpp.html" title=" " alt="" coords="13622,370,13813,411"/>
+<area shape="rect" id="node66" href="$_e_f_r32_config_8cpp.html" title="Utilities for accessing persisted device configuration on platforms based on the Silicon Labs SDK." alt="" coords="7182,481,7405,508"/>
+<area shape="rect" id="node67" href="$_e_f_r32_config_8h.html" title="Utilities for accessing persisted device configuration on platforms based on the Silicon Labs SDK." alt="" coords="8745,377,8953,404"/>
+<area shape="rect" id="node69" href="$_e_f_r32_2_group_key_store_impl_8h.html" title="Provides an implementation of the Chip Group Key Store interface for platforms based on the Silicon L..." alt="" coords="9811,474,10018,515"/>
+<area shape="rect" id="node70" href="$_e_f_r32_2_group_key_store_impl_8cpp.html" title="Provides an implementation of the CHIP GroupKeyStore interface for platforms based on the Silicon Lab..." alt="" coords="10277,578,10483,619"/>
+<area shape="rect" id="node71" href="$_e_f_r32_2_entropy_8cpp.html" title="Provides implementations for the Chip entropy sourcing functions on the Silcon Labs EFR32 platforms." alt="" coords="14192,377,14379,404"/>
+<area shape="rect" id="node72" href="$_e_f_r32_2_software_update_manager_impl_8cpp.html" title=" " alt="" coords="14403,370,14615,411"/>
+<area shape="rect" id="node73" href="$_e_f_r32_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for EFR32 platforms using the Silicon Lab..." alt="" coords="14532,578,14724,619"/>
+<area shape="rect" id="node74" href="$_e_s_p32_2bluedroid_2_b_l_e_manager_impl_8cpp.html" title="Provides an implementation of the BLEManager singleton object for the ESP32 platform." alt="" coords="14640,370,14811,411"/>
+<area shape="rect" id="node75" href="$_e_s_p32_2_entropy_8cpp.html" title="Provides implementations for the CHIP entropy sourcing functions on the ESP32 platform." alt="" coords="14835,377,15021,404"/>
+<area shape="rect" id="node76" href="$_e_s_p32_config_8cpp.html" title="Utilities for interacting with the the ESP32 &quot;NVS&quot; key&#45;value store." alt="" coords="14967,481,15190,508"/>
+<area shape="rect" id="node77" href="$_e_s_p32_config_8h.html" title="Utilities for interacting with the the ESP32 &quot;NVS&quot; key&#45;value store." alt="" coords="12517,377,12725,404"/>
+<area shape="rect" id="node79" href="$_e_s_p32_2_group_key_store_impl_8h.html" title="Provides an implementation of the Chip Group Key Store interface for the ESP32 platform." alt="" coords="13657,474,13863,515"/>
+<area shape="rect" id="node80" href="$_e_s_p32_2_group_key_store_impl_8cpp.html" title="Provides an implementation of the Chip GroupKeyStore interface for the ESP32 platform." alt="" coords="13642,578,13849,619"/>
+<area shape="rect" id="node81" href="$_e_s_p32_utils_8cpp.html" title="General utility methods for the ESP32 platform." alt="" coords="15215,481,15425,508"/>
+<area shape="rect" id="node82" href="$_e_s_p32_utils_8h.html" title=" " alt="" coords="15147,377,15344,404"/>
+<area shape="rect" id="node83" href="$_lw_i_p_core_lock_8cpp.html" title=" " alt="" coords="1799,377,2028,404"/>
+<area shape="rect" id="node84" href="$_e_s_p32_2nimble_2_b_l_e_manager_impl_8cpp.html" title="Provides an implementation of the BLEManager singleton object for the ESP32 (NimBLE) platform." alt="" coords="2053,370,2209,411"/>
+<area shape="rect" id="node85" href="$_e_s_p32_2_software_update_manager_impl_8cpp.html" title=" " alt="" coords="2233,370,2445,411"/>
+<area shape="rect" id="node86" href="$_e_s_p32_2_system_time_support_8cpp.html" title="Provides implementations of the CHIP System Layer platform time/clock functions that are suitable for..." alt="" coords="2469,370,2661,411"/>
+<area shape="rect" id="node87" href="$_generic_thread_stack_manager_impl___free_r_t_o_s_8cpp.html" title="Contains non&#45;inline method definitions for the GenericThreadStackManagerImpl_FreeRTOS&lt;&gt; template." alt="" coords="14259,467,14445,523"/>
+<area shape="rect" id="node88" href="$_k32_w_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for K32W platforms using the NXP SDK and ..." alt="" coords="13873,578,14060,619"/>
+<area shape="rect" id="node89" href="$qpg6100_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for the QPG6100 platform using the Qorvo ..." alt="" coords="14084,578,14284,619"/>
+<area shape="rect" id="node90" href="$_free_r_t_o_s_2_system_time_support_8cpp.html" title="Provides implementations of the CHIP System Layer platform time/clock functions based on the FreeRTOS..." alt="" coords="2787,370,2973,411"/>
+<area shape="rect" id="node91" href="$_general_utils_8cpp.html" title="General utility functions available on all platforms." alt="" coords="2997,377,3168,404"/>
+<area shape="rect" id="node92" href="$_globals_8cpp.html" title=" " alt="" coords="3193,377,3335,404"/>
+<area shape="rect" id="node93" href="$_k32_w_2_b_l_e_manager_impl_8cpp.html" title="Provides an implementation of the BLEManager singleton object for the K32W platforms." alt="" coords="3359,370,3547,411"/>
+<area shape="rect" id="node94" href="$_k32_w_2_connectivity_manager_impl_8cpp.html" title=" " alt="" coords="3572,370,3759,411"/>
+<area shape="rect" id="node95" href="$_k32_w_2_entropy_8cpp.html" title="Provides implementations for the Chip entropy sourcing functions on the NXP K32W platforms." alt="" coords="3783,377,3964,404"/>
+<area shape="rect" id="node96" href="$_k32_w_2_group_key_store_impl_8cpp.html" title="Provides an implementation of the Chip GroupKeyStore interface for platforms based on the NXP SDK." alt="" coords="6672,578,6875,619"/>
+<area shape="rect" id="node97" href="$_k32_w_2_group_key_store_impl_8h.html" title="Provides an implementation of the Chip Group Key Store interface for platforms based on the NXP SDK." alt="" coords="6091,474,6293,515"/>
+<area shape="rect" id="node98" href="$_k32_w_config_8cpp.html" title="Utilities for accessing persisted device configuration on platforms based on the NXP K32W SDK." alt="" coords="5538,481,5750,508"/>
+<area shape="rect" id="node99" href="$_k32_w_config_8h.html" title="Utilities for accessing persisted device configuration on platforms based on the NXP K32W SDK." alt="" coords="7191,377,7390,404"/>
+<area shape="rect" id="node101" href="$_k32_w_2_software_update_manager_impl_8cpp.html" title=" " alt="" coords="4203,370,4410,411"/>
+<area shape="rect" id="node102" href="$_linux_2_b_l_e_manager_impl_8cpp.html" title="Provides an implementation of the BLEManager singleton object for Linux platforms." alt="" coords="4434,370,4617,411"/>
+<area shape="rect" id="node103" href="$_c_h_i_p_linux_storage_8cpp.html" title="This file implements a class for managing client application user&#45;editable settings on Linux platform..." alt="" coords="4641,370,4813,411"/>
+<area shape="rect" id="node104" href="$_c_h_i_p_linux_storage_ini_8cpp.html" title="Provides an implementation of the Configuration key&#45;value store object using IniPP on Linux platform." alt="" coords="4837,370,5009,411"/>
+<area shape="rect" id="node105" href="$_linux_2_connectivity_manager_impl_8cpp.html" title=" " alt="" coords="5033,370,5215,411"/>
+<area shape="rect" id="node106" href="$_linux_2_entropy_8cpp.html" title="Provides implementations for the chip entropy sourcing functions on the Linux platforms." alt="" coords="5239,377,5415,404"/>
+<area shape="rect" id="node107" href="$_linux_2_posix_config_8cpp.html" title="Utilities for interacting with multiple file partitions and maps key&#45;value config calls to the correc..." alt="" coords="3205,481,3409,508"/>
+<area shape="rect" id="node108" href="$_linux_2_posix_config_8h.html" title="Utilities for accessing persisted device configuration on Linux platforms." alt="" coords="3989,377,4179,404"/>
+<area shape="rect" id="node110" href="$_linux_2_system_time_support_8cpp.html" title="Provides implementations of the CHIP System Layer platform time/clock functions that are suitable for..." alt="" coords="5439,370,5622,411"/>
+<area shape="rect" id="node112" href="$_linux_2_thread_stack_manager_impl_8h.html" title=" " alt="" coords="5646,370,5829,411"/>
+<area shape="rect" id="node113" href="$nrfconnect_2_connectivity_manager_impl_8cpp.html" title=" " alt="" coords="5853,370,6051,411"/>
+<area shape="rect" id="node114" href="$_generic_thread_stack_manager_impl___open_thread_8cpp.html" title="Contains non&#45;inline method definitions for the GenericThreadStackManagerImpl_OpenThread&lt;&gt; template." alt="" coords="12299,363,12493,419"/>
+<area shape="rect" id="node115" href="$_generic_thread_stack_manager_impl___open_thread___lw_i_p_8cpp.html" title="Contains non&#45;inline method definitions for the GenericThreadStackManagerImpl_OpenThread_LwIP&lt;&gt; templa..." alt="" coords="14040,467,14235,523"/>
+<area shape="rect" id="node116" href="$_zephyr_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for Zephyr platforms." alt="" coords="11882,474,12073,515"/>
+<area shape="rect" id="node117" href="$_open_thread_utils_8cpp.html" title="Utility functions for working with OpenThread." alt="" coords="6127,370,6276,411"/>
+<area shape="rect" id="node118" href="$_persisted_storage_8cpp.html" title="Provides implementations for the CHIP persistent storage APIs." alt="" coords="6301,377,6499,404"/>
+<area shape="rect" id="node119" href="$qpg6100_2_b_l_e_manager_impl_8cpp.html" title="Provides an implementation of the BLEManager singleton object for the QPG6100 platform." alt="" coords="6523,370,6725,411"/>
+<area shape="rect" id="node120" href="$qpg6100_2_connectivity_manager_impl_8cpp.html" title=" " alt="" coords="6749,370,6947,411"/>
+<area shape="rect" id="node121" href="$qpg6100_2_entropy_8cpp.html" title="Provides implementations for the chip entropy sourcing functions on QPG6100 platforms." alt="" coords="6972,377,7167,404"/>
+<area shape="rect" id="node122" href="$qpg6100_2_group_key_store_impl_8cpp.html" title="Provides an implementation of the CHIP GroupKeyStore interface for Qorvo platforms." alt="" coords="7649,578,7833,619"/>
+<area shape="rect" id="node123" href="$qpg6100_2_group_key_store_impl_8h.html" title="Provides an implementation of the chip Group Key Store interface for Qorvo QPG6100 platforms." alt="" coords="7480,474,7664,515"/>
+<area shape="rect" id="node124" href="$qpg6100_config_8cpp.html" title="Utilities for accessing persisted device configuration on platforms based on the Qorvo QPG6100 SDK." alt="" coords="6318,474,6493,515"/>
+<area shape="rect" id="node125" href="$qpg6100_config_8h.html" title="Utilities for accessing persisted device configuration on platforms based on the Qorvo QPG6100 SDK." alt="" coords="8253,370,8427,411"/>
+<area shape="rect" id="node127" href="$qpg6100_2_software_update_manager_impl_8cpp.html" title=" " alt="" coords="7415,370,7593,411"/>
+<area shape="rect" id="node130" href="$_zephyr_2_b_l_e_manager_impl_8cpp.html" title="Provides an implementation of the BLEManager singleton object for Zephyr platforms." alt="" coords="7617,370,7809,411"/>
+<area shape="rect" id="node131" href="$_zephyr_2_system_time_support_8cpp.html" title="Provides implementations of the CHIP System Layer platform time/clock functions based on the Zephyr t..." alt="" coords="7834,370,8025,411"/>
+<area shape="rect" id="node132" href="$_zephyr_config_8cpp.html" title="Utilities for accessing persisted device configuration on Zephyr platforms." alt="" coords="11191,481,11411,508"/>
+<area shape="rect" id="node133" href="$_zephyr_config_8h.html" title="Utilities for accessing persistent device configuration on Zephyr platforms." alt="" coords="10063,377,10270,404"/>
+<area shape="rect" id="node23" href="$cc13x2__26x2_2_device_network_provisioning_delegate_impl_8h.html" title=" " alt="" coords="8422,467,8661,523"/>
+<area shape="rect" id="node25" href="$_darwin_2_device_network_provisioning_delegate_impl_8h.html" title=" " alt="" coords="7949,474,8157,515"/>
+<area shape="rect" id="node26" href="$_e_f_r32_2_device_network_provisioning_delegate_impl_8h.html" title=" " alt="" coords="8685,474,8893,515"/>
+<area shape="rect" id="node28" href="$_e_s_p32_2_device_network_provisioning_delegate_impl_8h.html" title=" " alt="" coords="8917,474,9125,515"/>
+<area shape="rect" id="node30" href="$_k32_w_2_device_network_provisioning_delegate_impl_8h.html" title=" " alt="" coords="9149,474,9352,515"/>
+<area shape="rect" id="node32" href="$_linux_2_device_network_provisioning_delegate_impl_8h.html" title=" " alt="" coords="9377,474,9575,515"/>
+<area shape="rect" id="node34" href="$nrfconnect_2_device_network_provisioning_delegate_impl_8h.html" title=" " alt="" coords="9600,467,9787,523"/>
+<area shape="rect" id="node36" href="$qpg6100_2_device_network_provisioning_delegate_impl_8h.html" title=" " alt="" coords="8181,474,8397,515"/>
+<area shape="rect" id="node24" href="$cc13x2__26x2_2_device_network_provisioning_delegate_impl_8cpp.html" title=" " alt="" coords="8422,571,8661,627"/>
+<area shape="rect" id="node27" href="$_e_f_r32_2_device_network_provisioning_delegate_impl_8cpp.html" title=" " alt="" coords="8685,578,8893,619"/>
+<area shape="rect" id="node29" href="$_e_s_p32_2_device_network_provisioning_delegate_impl_8cpp.html" title=" " alt="" coords="8917,578,9125,619"/>
+<area shape="rect" id="node31" href="$_k32_w_2_device_network_provisioning_delegate_impl_8cpp.html" title=" " alt="" coords="9149,578,9352,619"/>
+<area shape="rect" id="node33" href="$_linux_2_device_network_provisioning_delegate_impl_8cpp.html" title=" " alt="" coords="9377,578,9575,619"/>
+<area shape="rect" id="node35" href="$nrfconnect_2_device_network_provisioning_delegate_impl_8cpp.html" title=" " alt="" coords="9600,571,9787,627"/>
+<area shape="rect" id="node37" href="$qpg6100_2_device_network_provisioning_delegate_impl_8cpp.html" title=" " alt="" coords="8181,578,8397,619"/>
+<area shape="rect" id="node56" href="$cc13x2__26x2_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for the Texas Instruments CC1352 platfo..." alt="" coords="12565,474,12755,515"/>
+<area shape="rect" id="node63" href="$_darwin_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for Darwin platforms." alt="" coords="12979,474,13173,515"/>
+<area shape="rect" id="node68" href="$_e_f_r32_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for EFR32 platforms using the Silicon L..." alt="" coords="6963,474,7157,515"/>
+<area shape="rect" id="node78" href="$_e_s_p32_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for the ESP32 platform." alt="" coords="13437,474,13632,515"/>
+<area shape="rect" id="node100" href="$_k32_w_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for K32W platforms using the NXP SDK." alt="" coords="5774,474,5965,515"/>
+<area shape="rect" id="node109" href="$_linux_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for Linux platforms." alt="" coords="3991,474,4177,515"/>
+<area shape="rect" id="node126" href="$qpg6100_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for QPG6100 platforms." alt="" coords="6517,474,6720,515"/>
+<area shape="rect" id="node134" href="$_zephyr_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for Zephyr platforms." alt="" coords="10972,474,11167,515"/>
+<area shape="rect" id="node135" href="$nrfconnect_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for nRF Connect SDK platforms,..." alt="" coords="10975,578,11164,619"/>
+<area shape="rect" id="node141" href="$_main_loop_8cpp.html" title=" " alt="" coords="15640,370,15779,411"/>
+<area shape="rect" id="node145" href="$nrfconnect_2_platform_manager_impl_8h.html" title="Provides an implementation of the PlatformManager object for nRF Connect SDK platforms,..." alt="" coords="1306,273,1467,315"/>
+<area shape="rect" id="node154" href="$nrfconnect_2_c_h_i_p_device_platform_event_8h.html" title="Provides platform&#45;specific event types and data for the chip Device Layer on nRF Connect SDK platform..." alt="" coords="15853,184,16048,225"/>
+</map>

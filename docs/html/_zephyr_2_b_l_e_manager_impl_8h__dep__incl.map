@@ -1,0 +1,7 @@
+<map id="platform/Zephyr/BLEManagerImpl.h" name="platform/Zephyr/BLEManagerImpl.h">
+<area shape="rect" id="node1" title="Provides an implementation of the BLEManager singleton object for the Zephyr platforms." alt="" coords="71,5,263,47"/>
+<area shape="rect" id="node2" href="$nrfconnect_2_b_l_e_manager_impl_8h.html" title="Provides an implementation of the BLEManager object for nRF Connect SDK platforms,..." alt="" coords="5,95,143,136"/>
+<area shape="rect" id="node3" href="$_zephyr_2_thread_stack_manager_impl_8h.html" title="Provides an implementation of the ThreadStackManager object for Zephyr platforms." alt="" coords="167,95,357,136"/>
+<area shape="rect" id="node4" href="$nrfconnect_2_thread_stack_manager_impl_8h.html" title="Provides an implementation of the ThreadStackManager object for nRF Connect SDK platforms,..." alt="" coords="62,184,249,225"/>
+<area shape="rect" id="node5" href="$_zephyr_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for Zephyr platforms." alt="" coords="273,184,464,225"/>
+</map>

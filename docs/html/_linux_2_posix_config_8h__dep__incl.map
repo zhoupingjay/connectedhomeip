@@ -1,0 +1,6 @@
+<map id="platform/Linux/PosixConfig.h" name="platform/Linux/PosixConfig.h">
+<area shape="rect" id="node1" title="Utilities for accessing persisted device configuration on Linux platforms." alt="" coords="212,5,403,32"/>
+<area shape="rect" id="node2" href="$_linux_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for Linux platforms." alt="" coords="5,80,191,121"/>
+<area shape="rect" id="node3" href="$_linux_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for Linux platforms." alt="" coords="215,80,400,121"/>
+<area shape="rect" id="node4" href="$_linux_2_posix_config_8cpp.html" title="Utilities for interacting with multiple file partitions and maps key&#45;value config calls to the correc..." alt="" coords="424,87,628,114"/>
+</map>

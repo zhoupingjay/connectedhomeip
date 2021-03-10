@@ -1,0 +1,19 @@
+<map id="include/platform/internal/GenericConnectivityManagerImpl_BLE.h" name="include/platform/internal/GenericConnectivityManagerImpl_BLE.h">
+<area shape="rect" id="node1" title="Provides an generic implementation of ConnectivityManager features for use on platforms that support ..." alt="" coords="234,5,497,47"/>
+<area shape="rect" id="node2" href="$_b_l_e_manager_8h.html" title="Defines the abstract interface for the Device Layer&#39;s internal BLEManager object." alt="" coords="263,95,467,121"/>
+<area shape="rect" id="node3" href="$_connectivity_manager_8h.html" title="Defines the public interface for the Device Layer ConnectivityManager object." alt="" coords="333,169,539,196"/>
+<area shape="rect" id="node4" href="$_code_utils_8h.html" title="This file defines and implements a number of miscellaneous templates for finding object minima and ma..." alt="" coords="296,244,435,271"/>
+<area shape="rect" id="node5" href="$_c_h_i_p_error_8h.html" title="This file defines error constants for the CHIP core subsystem." alt="" coords="60,319,183,345"/>
+<area shape="rect" id="node11" href="$_error_str_8h.html" title="This file defines functions to translate error codes and status reports used throughout the CHIP pack..." alt="" coords="210,319,334,345"/>
+<area shape="rect" id="node13" href="$_c_h_i_p_logging_8h.html" title="This file defines macros, constants, and interfaces for a platform&#45;independent logging interface for ..." alt="" coords="359,319,561,345"/>
+<area shape="rect" id="node17" title=" " alt="" coords="586,319,665,345"/>
+<area shape="rect" id="node6" href="$_c_h_i_p_config_8h.html" title="This file defines default compile&#45;time configuration constants for CHIP." alt="" coords="5,393,139,420"/>
+<area shape="rect" id="node7" href="$_ble_config_8h.html" title="This file defines default compile&#45;time configuration constants for the CHIP BleLayer,..." alt="" coords="81,468,191,495"/>
+<area shape="rect" id="node8" href="$_system_config_8h.html" title="This file contains default compile&#45;time configuration constants for the CHIP System Layer,..." alt="" coords="24,543,187,569"/>
+<area shape="rect" id="node9" title=" " alt="" coords="267,617,333,644"/>
+<area shape="rect" id="node10" title=" " alt="" coords="66,617,145,644"/>
+<area shape="rect" id="node12" href="$_d_l_l_util_8h.html" title="This file defines a set of macros for declaring C and C++ symbol visibility for dynamic shared object..." alt="" coords="163,393,287,420"/>
+<area shape="rect" id="node14" href="$_log_v_8h.html" title=" " alt="" coords="624,393,781,420"/>
+<area shape="rect" id="node15" title=" " alt="" coords="725,468,795,495"/>
+<area shape="rect" id="node16" href="$support_2logging_2_constants_8h.html" title=" " alt="" coords="414,393,599,420"/>
+</map>

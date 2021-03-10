@@ -1,0 +1,9 @@
+<map id="chip::Transport::PeerConnections::CreateNewPeerConnectionState" name="chip::Transport::PeerConnections::CreateNewPeerConnectionState">
+<area shape="rect" id="node1" title="Allocates a new peer connection state state object out of the internal resource pool." alt="" coords="5,143,225,184"/>
+<area shape="rect" id="node2" href="$classchip_1_1_optional.html#ab34dda6cd80632dc994056dd12d08116" title="Checks if the optional contains a value or not." alt="" coords="532,150,699,177"/>
+<area shape="rect" id="node3" href="$classchip_1_1_transport_1_1_peer_connection_state.html#a87016188f3725d49d639873141e43edf" title=" " alt="" coords="273,44,484,85"/>
+<area shape="rect" id="node4" href="$classchip_1_1_transport_1_1_peer_connection_state.html#ae8d87274b9e95341e0913fadf7143bb9" title=" " alt="" coords="273,109,484,151"/>
+<area shape="rect" id="node5" href="$classchip_1_1_transport_1_1_peer_connection_state.html#a5ce54e9798ea8239a1f87a81f016e38c" title=" " alt="" coords="273,175,484,216"/>
+<area shape="rect" id="node6" href="$classchip_1_1_transport_1_1_peer_connection_state.html#a5a40eee3bfa060504f1414482e58fdf9" title=" " alt="" coords="273,240,484,281"/>
+<area shape="rect" id="node7" href="$classchip_1_1_optional.html#a541522fc0e3741b59b6796dedbaa13b3" title="Gets the current value of the optional." alt="" coords="307,306,450,333"/>
+</map>

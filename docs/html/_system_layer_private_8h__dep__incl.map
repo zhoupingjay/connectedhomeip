@@ -1,0 +1,11 @@
+<map id="system/SystemLayerPrivate.h" name="system/SystemLayerPrivate.h">
+<area shape="rect" id="node1" title="This header file includes common private definitions for the CHIP system layer." alt="" coords="678,5,877,32"/>
+<area shape="rect" id="node2" href="$_system_clock_8cpp.html" title="Provides default implementations for the platform Get/SetClock_ functions for POSIX and LwIP platform..." alt="" coords="5,80,179,107"/>
+<area shape="rect" id="node3" href="$_system_error_8cpp.html" title="This file contains free functions for mapping OS and LwIP stack&#45;specific errors into CHIP System Laye..." alt="" coords="203,80,370,107"/>
+<area shape="rect" id="node4" href="$_system_layer_8cpp.html" title="This file contains definitions of the chip::System::Layer class methods and related data and function..." alt="" coords="395,80,565,107"/>
+<area shape="rect" id="node5" href="$_system_mutex_8cpp.html" title="This file defines the abstraction of mutual exclusion locks offered by the target platform." alt="" coords="590,80,765,107"/>
+<area shape="rect" id="node6" href="$_system_object_8cpp.html" title="This file contains definitions of member functions for class chip::System::Object." alt="" coords="789,80,966,107"/>
+<area shape="rect" id="node7" href="$_system_packet_buffer_8cpp.html" title="This file defines the member functions and private data for the chip::System::PacketBuffer class,..." alt="" coords="990,80,1205,107"/>
+<area shape="rect" id="node8" href="$_system_stats_8cpp.html" title="This file implements the CHIP API to collect statistics on the state of CHIP, Inet and System resourc..." alt="" coords="1229,80,1400,107"/>
+<area shape="rect" id="node9" href="$_system_timer_8cpp.html" title="This file defines the member functions and private data for the chip::System::Timer class,..." alt="" coords="1424,80,1595,107"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="mdns::Minimal::ResponseBuilder::Reset" name="mdns::Minimal::ResponseBuilder::Reset">
+<area shape="rect" id="node1" title=" " alt="" coords="5,233,220,275"/>
+<area shape="rect" id="node2" href="$classchip_1_1_system_1_1_packet_buffer.html#a87fcec49262eac0bdcd3fe4ae12fb14f" title="Get the number of bytes of data that can be added to the current buffer given the current start posit..." alt="" coords="273,37,455,79"/>
+<area shape="rect" id="node6" href="$classmdns_1_1_minimal_1_1_header_ref.html#a39a88a57c92de549c22ce410f5aa8170" title=" " alt="" coords="275,103,453,144"/>
+<area shape="rect" id="node7" href="$classmdns_1_1_minimal_1_1_const_header_ref.html#af8398863bc8137fc89d09c7fe2134867" title=" " alt="" coords="268,168,460,209"/>
+<area shape="rect" id="node10" href="$classchip_1_1_system_1_1_packet_buffer.html#a66dbb9c3b0110f2304d5e521c4d40570" title="Set the length, in bytes, of data in a packet buffer, adjusting total length accordingly." alt="" coords="273,233,455,275"/>
+<area shape="rect" id="node11" href="$classmdns_1_1_minimal_1_1_header_ref.html#ab4b5808532ad18f17be60c312da0d704" title=" " alt="" coords="275,299,453,340"/>
+<area shape="rect" id="node13" href="$classmdns_1_1_minimal_1_1_bit_packed_flags.html#a06ce5079c26ac87765b93a2c2856e56e" title=" " alt="" coords="277,364,451,405"/>
+<area shape="rect" id="node14" href="$classchip_1_1_system_1_1_packet_buffer.html#a1ccfaa7a1054db388a2f1ceba4501e17" title="Get a pointer to the start of data in a buffer." alt="" coords="273,429,455,471"/>
+<area shape="rect" id="node3" href="$classchip_1_1_system_1_1_packet_buffer.html#a9ac3f03ccf49d369aebc939d0b7b5edb" title="Get the length, in bytes, of data in a packet buffer." alt="" coords="513,5,695,47"/>
+<area shape="rect" id="node4" href="$classchip_1_1_system_1_1_packet_buffer.html#a7334f74539888f493225858876763616" title="Get the maximum amount, in bytes, of data that will fit in the buffer given the current start positio..." alt="" coords="513,71,695,112"/>
+<area shape="rect" id="node5" href="$classchip_1_1_system_1_1_packet_buffer.html#a46827678a540122d2a6ea6c90c360d61" title="Return the size of the allocation including the reserved and payload data spaces but not including sp..." alt="" coords="748,71,931,112"/>
+<area shape="rect" id="node8" href="$classmdns_1_1_minimal_1_1_const_header_ref.html#addf62d8d8e0f5250678c6194132de4b6" title=" " alt="" coords="508,168,700,209"/>
+<area shape="rect" id="node9" href="$namespacechip_1_1_encoding_1_1_big_endian.html#a243b499fbaf3008052cb5546547fffc3" title="Perform a, potentially unaligned, memory read of the big endian byte ordered 16&#45;bit value from the sp..." alt="" coords="752,168,927,209"/>
+<area shape="rect" id="node12" href="$classmdns_1_1_minimal_1_1_bit_packed_flags.html#a6ab16e63031893d4b9cfb573b2a74ac9" title=" " alt="" coords="517,299,691,340"/>
+</map>

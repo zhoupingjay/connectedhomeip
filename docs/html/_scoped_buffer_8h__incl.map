@@ -1,0 +1,14 @@
+<map id="lib/support/ScopedBuffer.h" name="lib/support/ScopedBuffer.h">
+<area shape="rect" id="node1" title="Defines scoped auto&#45;free buffers for CHIP." alt="" coords="355,5,530,32"/>
+<area shape="rect" id="node2" href="$_c_h_i_p_mem_8h.html" title="This file defines heap memory allocation APIs for CHIP." alt="" coords="246,80,405,107"/>
+<area shape="rect" id="node11" title=" " alt="" coords="416,155,469,181"/>
+<area shape="rect" id="node12" title=" " alt="" coords="480,80,563,107"/>
+<area shape="rect" id="node3" href="$_c_h_i_p_error_8h.html" title="This file defines error constants for the CHIP core subsystem." alt="" coords="109,155,232,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="256,155,320,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="345,155,391,181"/>
+<area shape="rect" id="node4" href="$_c_h_i_p_config_8h.html" title="This file defines default compile&#45;time configuration constants for CHIP." alt="" coords="104,229,237,256"/>
+<area shape="rect" id="node5" href="$_ble_config_8h.html" title="This file defines default compile&#45;time configuration constants for the CHIP BleLayer,..." alt="" coords="115,304,226,331"/>
+<area shape="rect" id="node6" href="$_system_config_8h.html" title="This file contains default compile&#45;time configuration constants for the CHIP System Layer,..." alt="" coords="5,379,168,405"/>
+<area shape="rect" id="node7" title=" " alt="" coords="173,453,238,480"/>
+<area shape="rect" id="node8" title=" " alt="" coords="47,453,126,480"/>
+</map>

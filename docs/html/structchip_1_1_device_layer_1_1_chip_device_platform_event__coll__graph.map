@@ -1,0 +1,10 @@
+<map id="chip::DeviceLayer::ChipDevicePlatformEvent" name="chip::DeviceLayer::ChipDevicePlatformEvent">
+<area shape="rect" id="node1" title="Represents platform&#45;specific event information." alt="" coords="795,219,968,260"/>
+<area shape="rect" id="node2" href="$structchip_1_1_device_layer_1_1_ble_c_c_c_write_event_type.html" title=" " alt="" coords="369,5,531,47"/>
+<area shape="rect" id="node3" href="$classchip_1_1_system_1_1_packet_buffer.html" title="The packet buffer class is the core structure used for manipulating packets of octet&#45;serialized data,..." alt="" coords="101,122,284,149"/>
+<area shape="rect" id="node6" href="$structchip_1_1_device_layer_1_1_ble_c1_write_event_type.html" title=" " alt="" coords="375,149,525,191"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,122,52,149"/>
+<area shape="rect" id="node5" title=" " alt="" coords="423,322,477,349"/>
+<area shape="rect" id="node7" href="$structchip_1_1_device_layer_1_1_ble_c2_ind_done_event_type.html" title=" " alt="" coords="365,373,535,415"/>
+<area shape="rect" id="node8" href="$structchip_1_1_device_layer_1_1_ble_conn_event_type.html" title=" " alt="" coords="383,439,517,480"/>
+</map>

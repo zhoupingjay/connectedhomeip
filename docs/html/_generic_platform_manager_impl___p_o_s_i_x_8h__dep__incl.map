@@ -1,0 +1,8 @@
+<map id="include/platform/internal/GenericPlatformManagerImpl_POSIX.h" name="include/platform/internal/GenericPlatformManagerImpl_POSIX.h">
+<area shape="rect" id="node1" title="Provides an generic implementation of PlatformManager features for use on Linux platforms." alt="" coords="302,5,497,61"/>
+<area shape="rect" id="node2" href="$_generic_platform_manager_impl___p_o_s_i_x_8cpp.html" title="Contains non&#45;inline method definitions for the GenericPlatformManagerImpl_POSIX&lt;&gt; template." alt="" coords="97,109,291,165"/>
+<area shape="rect" id="node5" href="$_darwin_2_platform_manager_impl_8h.html" title="Provides an implementation of the PlatformManager object." alt="" coords="316,117,483,158"/>
+<area shape="rect" id="node6" href="$_linux_2_platform_manager_impl_8h.html" title="Provides an implementation of the PlatformManager object." alt="" coords="507,117,713,158"/>
+<area shape="rect" id="node3" href="$_darwin_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for Darwin platforms." alt="" coords="5,213,172,255"/>
+<area shape="rect" id="node4" href="$_linux_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for Linux platforms." alt="" coords="196,213,403,255"/>
+</map>

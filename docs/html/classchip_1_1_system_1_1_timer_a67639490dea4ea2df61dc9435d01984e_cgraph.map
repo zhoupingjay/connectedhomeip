@@ -1,0 +1,4 @@
+<map id="chip::System::Timer::Cancel" name="chip::System::Timer::Cancel">
+<area shape="rect" id="node1" title="This method de&#45;initializes the timer object, and prevents this timer from firing if it hasn&#39;t done so..." alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node2" href="$classchip_1_1_system_1_1_object.html#a0c52d0bce8be30a9a7cb8feaa6a54ae0" title="Returns a reference to the CHIP System Layer object provided when the object was initially retained f..." alt="" coords="193,5,339,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="chip::PayloadHeader::EncodeAtStart" name="chip::PayloadHeader::EncodeAtStart">
+<area shape="rect" id="node1" title="A version of Encode that encodes into a PacketBuffer at the start of the current data space." alt="" coords="431,5,573,47"/>
+<area shape="rect" id="node2" href="$classchip_1_1_payload_header.html#a70e400595194d05effccb9c1fd656afd" title="A version of Encode that encodes into a PacketBuffer before the PacketBuffer&#39;s current data." alt="" coords="240,5,383,47"/>
+<area shape="rect" id="node3" href="$namespacechip_1_1_secure_message_codec.html#ab4b26d118b04e9a3aeecd8ea55c82b72" title="Attach payload header to the message and encrypt the message buffer using key from the connection sta..." alt="" coords="5,5,192,47"/>
+</map>

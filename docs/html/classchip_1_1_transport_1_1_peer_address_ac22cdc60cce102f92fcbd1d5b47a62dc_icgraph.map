@@ -1,0 +1,8 @@
+<map id="chip::Transport::PeerAddress::Uninitialized" name="chip::Transport::PeerAddress::Uninitialized">
+<area shape="rect" id="node1" title=" " alt="" coords="536,103,728,144"/>
+<area shape="rect" id="node2" href="$classchip_1_1_transport_1_1_peer_connections.html#a42ab561803ff6cc0dfa16f09b0a6c5af" title="Convenience method to expired a peer connection state and fired the related callback." alt="" coords="271,37,488,79"/>
+<area shape="rect" id="node5" href="$classchip_1_1_transport_1_1_peer_connection_state.html#a1142a48b3fe9ee84cc3ec596da469fd2" title="Reset the connection state to a completely uninitialized status." alt="" coords="274,103,485,144"/>
+<area shape="rect" id="node6" href="$classchip_1_1_transport_1_1_t_c_p_base.html#a81bfab4b5429466c340c7c47c254b8c0" title=" " alt="" coords="292,168,467,209"/>
+<area shape="rect" id="node3" href="$classchip_1_1_transport_1_1_peer_connections.html#af3fb7eaf4212a92f4e7f0fb01bf75496" title="Iterates through all active connections and expires any connection with an idle time larger than the ..." alt="" coords="5,5,223,47"/>
+<area shape="rect" id="node4" href="$classchip_1_1_secure_session_mgr.html#aba86b319532d6abe2005ee2d2a011c1e" title="Establish a new pairing with a peer node." alt="" coords="32,71,196,112"/>
+</map>

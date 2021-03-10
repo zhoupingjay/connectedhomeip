@@ -1,0 +1,14 @@
+<map id="include/platform/internal/GenericPlatformManagerImpl_FreeRTOS.h" name="include/platform/internal/GenericPlatformManagerImpl_FreeRTOS.h">
+<area shape="rect" id="node1" title="Provides an generic implementation of PlatformManager features for use on FreeRTOS platforms." alt="" coords="993,5,1187,61"/>
+<area shape="rect" id="node2" href="$_generic_platform_manager_impl___free_r_t_o_s_8cpp.html" title="Contains non&#45;inline method definitions for the GenericPlatformManagerImpl_FreeRTOS&lt;&gt; template." alt="" coords="457,109,651,165"/>
+<area shape="rect" id="node8" href="$cc13x2__26x2_2_platform_manager_impl_8h.html" title="Provides an implementation of the PlatformManager object." alt="" coords="676,117,837,158"/>
+<area shape="rect" id="node9" href="$_e_f_r32_2_platform_manager_impl_8h.html" title="Provides an implementation of the PlatformManager object for EFR32 platforms using the Silicon Labs S..." alt="" coords="861,117,1079,158"/>
+<area shape="rect" id="node10" href="$_e_s_p32_2_platform_manager_impl_8h.html" title="Provides an implementation of the PlatformManager object for the ESP32 platform." alt="" coords="1103,117,1320,158"/>
+<area shape="rect" id="node11" href="$_k32_w_2_platform_manager_impl_8h.html" title="Provides an implementation of the PlatformManager object for K32W platforms using the NXP SDK." alt="" coords="1344,117,1556,158"/>
+<area shape="rect" id="node12" href="$qpg6100_2_platform_manager_impl_8h.html" title="Provides an implementation of the PlatformManager object for the QPG6100 platform." alt="" coords="1580,117,1755,158"/>
+<area shape="rect" id="node3" href="$cc13x2__26x2_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for the Texas Instruments CC1352 platform." alt="" coords="5,213,180,255"/>
+<area shape="rect" id="node4" href="$_e_f_r32_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for EFR32 platforms using the Silicon Labs E..." alt="" coords="204,213,421,255"/>
+<area shape="rect" id="node5" href="$_e_s_p32_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for the ESP32 platform." alt="" coords="445,213,663,255"/>
+<area shape="rect" id="node6" href="$_k32_w_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for K32W platforms using the NXP K32W SDK." alt="" coords="687,213,899,255"/>
+<area shape="rect" id="node7" href="$qpg6100_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for QPG6100 platforms." alt="" coords="923,213,1097,255"/>
+</map>

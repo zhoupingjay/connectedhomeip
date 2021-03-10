@@ -1,0 +1,4 @@
+<map id="chip::System::Timer::GetCurrentEpoch" name="chip::System::Timer::GetCurrentEpoch">
+<area shape="rect" id="node1" title="This method returns the current epoch, corrected by system sleep with the system timescale,..." alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node2" href="$namespacechip_1_1_system_1_1_platform_1_1_layer.html#a2685a1be7eb20ad425c4be2571582ae9" title="Platform&#45;specific function for getting monotonic system time in milliseconds." alt="" coords="193,5,405,47"/>
+</map>

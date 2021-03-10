@@ -1,0 +1,10 @@
+<map id="lib/shell/streamer.h" name="lib/shell/streamer.h">
+<area shape="rect" id="node1" title="Header that defines a generic input / output stream abstraction." alt="" coords="381,5,511,32"/>
+<area shape="rect" id="node2" href="$shell_8h.html" title="Header that defines a generic shell API for CHIP examples." alt="" coords="317,80,425,107"/>
+<area shape="rect" id="node8" href="$streamer_8cpp.html" title="Source implementation for an input / output stream abstraction." alt="" coords="449,80,595,107"/>
+<area shape="rect" id="node3" href="$commands_8cpp.html" title="Source implementation of default shell commands for CHIP examples." alt="" coords="5,162,164,189"/>
+<area shape="rect" id="node4" href="$commands_8h.html" title="Header that defines default shell commands for CHIP examples." alt="" coords="188,162,333,189"/>
+<area shape="rect" id="node5" href="$shell_8cpp.html" title="Source implementation for a generic shell API for CHIP examples." alt="" coords="254,244,377,271"/>
+<area shape="rect" id="node6" href="$streamer__stdio_8cpp.html" title="Source implementation of an input / output stream for stdio targets." alt="" coords="409,155,531,196"/>
+<area shape="rect" id="node7" href="$streamer__zephyr_8cpp.html" title="Source implementation of an input / output stream for zehpyr targets." alt="" coords="555,155,676,196"/>
+</map>

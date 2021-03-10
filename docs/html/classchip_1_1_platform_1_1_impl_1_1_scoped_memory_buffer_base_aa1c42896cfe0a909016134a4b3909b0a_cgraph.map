@@ -1,0 +1,4 @@
+<map id="chip::Platform::Impl::ScopedMemoryBufferBase::Free" name="chip::Platform::Impl::ScopedMemoryBufferBase::Free">
+<area shape="rect" id="node1" title="Release memory used." alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node2" href="$namespacechip_1_1_platform.html#a9a65a9cd65454203059a7878eb74ccc1" title="This function is called by the Chip layer to release a memory block allocated by the MemoryAlloc(),..." alt="" coords="273,13,457,39"/>
+</map>

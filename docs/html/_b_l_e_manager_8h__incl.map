@@ -1,0 +1,18 @@
+<map id="include/platform/internal/BLEManager.h" name="include/platform/internal/BLEManager.h">
+<area shape="rect" id="node1" title="Defines the abstract interface for the Device Layer&#39;s internal BLEManager object." alt="" coords="285,5,445,47"/>
+<area shape="rect" id="node2" href="$_connectivity_manager_8h.html" title="Defines the public interface for the Device Layer ConnectivityManager object." alt="" coords="333,95,539,121"/>
+<area shape="rect" id="node3" href="$_code_utils_8h.html" title="This file defines and implements a number of miscellaneous templates for finding object minima and ma..." alt="" coords="296,169,435,196"/>
+<area shape="rect" id="node4" href="$_c_h_i_p_error_8h.html" title="This file defines error constants for the CHIP core subsystem." alt="" coords="60,244,183,271"/>
+<area shape="rect" id="node10" href="$_error_str_8h.html" title="This file defines functions to translate error codes and status reports used throughout the CHIP pack..." alt="" coords="210,244,334,271"/>
+<area shape="rect" id="node12" href="$_c_h_i_p_logging_8h.html" title="This file defines macros, constants, and interfaces for a platform&#45;independent logging interface for ..." alt="" coords="359,244,561,271"/>
+<area shape="rect" id="node16" title=" " alt="" coords="586,244,665,271"/>
+<area shape="rect" id="node5" href="$_c_h_i_p_config_8h.html" title="This file defines default compile&#45;time configuration constants for CHIP." alt="" coords="5,319,139,345"/>
+<area shape="rect" id="node6" href="$_ble_config_8h.html" title="This file defines default compile&#45;time configuration constants for the CHIP BleLayer,..." alt="" coords="81,393,191,420"/>
+<area shape="rect" id="node7" href="$_system_config_8h.html" title="This file contains default compile&#45;time configuration constants for the CHIP System Layer,..." alt="" coords="24,468,187,495"/>
+<area shape="rect" id="node8" title=" " alt="" coords="267,543,333,569"/>
+<area shape="rect" id="node9" title=" " alt="" coords="66,543,145,569"/>
+<area shape="rect" id="node11" href="$_d_l_l_util_8h.html" title="This file defines a set of macros for declaring C and C++ symbol visibility for dynamic shared object..." alt="" coords="163,319,287,345"/>
+<area shape="rect" id="node13" href="$_log_v_8h.html" title=" " alt="" coords="624,319,781,345"/>
+<area shape="rect" id="node14" title=" " alt="" coords="725,393,795,420"/>
+<area shape="rect" id="node15" href="$support_2logging_2_constants_8h.html" title=" " alt="" coords="414,319,599,345"/>
+</map>

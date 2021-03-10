@@ -1,0 +1,12 @@
+<map id="include/platform/internal/GenericPlatformManagerImpl_POSIX.h" name="include/platform/internal/GenericPlatformManagerImpl_POSIX.h">
+<area shape="rect" id="node1" title="Provides an generic implementation of PlatformManager features for use on Linux platforms." alt="" coords="431,5,626,61"/>
+<area shape="rect" id="node2" href="$_generic_platform_manager_impl_8h.html" title="Provides an generic implementation of PlatformManager features for use on various platforms." alt="" coords="5,109,169,151"/>
+<area shape="rect" id="node3" title=" " alt="" coords="194,117,253,143"/>
+<area shape="rect" id="node4" title=" " alt="" coords="277,117,345,143"/>
+<area shape="rect" id="node5" title=" " alt="" coords="370,117,463,143"/>
+<area shape="rect" id="node6" title=" " alt="" coords="487,117,570,143"/>
+<area shape="rect" id="node7" title=" " alt="" coords="595,117,663,143"/>
+<area shape="rect" id="node8" title=" " alt="" coords="687,117,749,143"/>
+<area shape="rect" id="node9" title=" " alt="" coords="773,117,849,143"/>
+<area shape="rect" id="node10" title=" " alt="" coords="873,117,931,143"/>
+</map>

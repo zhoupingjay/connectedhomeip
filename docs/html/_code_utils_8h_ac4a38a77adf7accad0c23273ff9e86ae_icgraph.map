@@ -1,0 +1,4 @@
+<map id="chipDie" name="chipDie">
+<area shape="rect" id="node1" title="This is invoked when a VerifyOrDie or VerifyOrDieWithMsg assertion expression evaluates to false." alt="" coords="193,13,260,39"/>
+<area shape="rect" id="node2" href="$classchip_1_1_system_1_1_timer.html#a207061f89969b38729b9d38f41f80519" title="This method registers an one&#45;shot timer with the underlying timer mechanism provided by the platform." alt="" coords="5,5,145,47"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="system/SystemStats.h" name="system/SystemStats.h">
+<area shape="rect" id="node1" title="This file declares the CHIP API to collect statistics on the state of CHIP, Inet and System resources..." alt="" coords="321,5,477,32"/>
+<area shape="rect" id="node2" href="$_c_h_i_p_config_8h.html" title="This file defines default compile&#45;time configuration constants for CHIP." alt="" coords="45,80,178,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="16,304,81,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="263,304,341,331"/>
+<area shape="rect" id="node7" href="$_inet_config_8h.html" title="This file defines default compile&#45;time configuration constants for the CHIP InetLayer,..." alt="" coords="243,155,361,181"/>
+<area shape="rect" id="node8" href="$_d_l_l_util_8h.html" title="This file defines a set of macros for declaring C and C++ symbol visibility for dynamic shared object..." alt="" coords="437,80,561,107"/>
+<area shape="rect" id="node9" title=" " alt="" coords="585,80,675,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="699,80,785,107"/>
+<area shape="rect" id="node3" href="$_ble_config_8h.html" title="This file defines default compile&#45;time configuration constants for the CHIP BleLayer,..." alt="" coords="56,155,167,181"/>
+<area shape="rect" id="node4" href="$_system_config_8h.html" title="This file contains default compile&#45;time configuration constants for the CHIP System Layer,..." alt="" coords="123,229,286,256"/>
+</map>

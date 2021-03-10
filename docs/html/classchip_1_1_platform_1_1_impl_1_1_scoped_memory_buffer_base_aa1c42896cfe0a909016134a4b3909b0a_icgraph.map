@@ -1,0 +1,12 @@
+<map id="chip::Platform::Impl::ScopedMemoryBufferBase::Free" name="chip::Platform::Impl::ScopedMemoryBufferBase::Free">
+<area shape="rect" id="node1" title="Release memory used." alt="" coords="723,133,943,174"/>
+<area shape="rect" id="node2" href="$classchip_1_1_platform_1_1_impl_1_1_scoped_memory_buffer_base.html#a82f8d7875efde1f0dc1bad7369521e46" title=" " alt="" coords="484,5,671,61"/>
+<area shape="rect" id="node5" href="$classchip_1_1_platform_1_1_impl_1_1_scoped_memory_buffer_base.html#adce84f324d3e2ae13b276583c27116e2" title=" " alt="" coords="484,85,671,141"/>
+<area shape="rect" id="node8" href="$classchip_1_1_platform_1_1_impl_1_1_scoped_memory_buffer_base.html#ab035699d36ec15f67599ee1be802da99" title=" " alt="" coords="484,165,671,221"/>
+<area shape="rect" id="node10" href="$classchip_1_1_platform_1_1_impl_1_1_scoped_memory_buffer_base.html#a42307310c5389e3272ef53a3b4df41da" title=" " alt="" coords="480,245,675,301"/>
+<area shape="rect" id="node3" href="$classchip_1_1_platform_1_1_scoped_memory_buffer.html#a54ab37617016db3f9cfcd01c302150e6" title=" " alt="" coords="229,13,432,54"/>
+<area shape="rect" id="node4" href="$classchip_1_1_device_layer_1_1_internal_1_1_chip_linux_storage.html#a015ae892049b640aaec725e4a6c4412b" title=" " alt="" coords="5,5,181,61"/>
+<area shape="rect" id="node6" href="$classchip_1_1_platform_1_1_scoped_memory_buffer.html#ab7aee20649581126247dec57eb79c845" title=" " alt="" coords="229,93,432,134"/>
+<area shape="rect" id="node7" href="$classchip_1_1_device_layer_1_1_internal_1_1_e_s_p32_config.html#a790cc0cfd990beb5f9e11ebd37d7eafb" title=" " alt="" coords="17,85,169,141"/>
+<area shape="rect" id="node9" href="$classchip_1_1_platform_1_1_scoped_memory_buffer.html#a20fb47e0462502c07875e6509ef7ce55" title=" " alt="" coords="229,173,432,214"/>
+</map>

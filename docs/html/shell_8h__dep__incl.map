@@ -1,0 +1,8 @@
+<map id="lib/shell/shell.h" name="lib/shell/shell.h">
+<area shape="rect" id="node1" title="Header that defines a generic shell API for CHIP examples." alt="" coords="317,5,425,32"/>
+<area shape="rect" id="node2" href="$commands_8cpp.html" title="Source implementation of default shell commands for CHIP examples." alt="" coords="5,87,164,114"/>
+<area shape="rect" id="node3" href="$commands_8h.html" title="Header that defines default shell commands for CHIP examples." alt="" coords="188,87,333,114"/>
+<area shape="rect" id="node4" href="$shell_8cpp.html" title="Source implementation for a generic shell API for CHIP examples." alt="" coords="254,169,377,196"/>
+<area shape="rect" id="node5" href="$streamer__stdio_8cpp.html" title="Source implementation of an input / output stream for stdio targets." alt="" coords="409,80,531,121"/>
+<area shape="rect" id="node6" href="$streamer__zephyr_8cpp.html" title="Source implementation of an input / output stream for zehpyr targets." alt="" coords="555,80,676,121"/>
+</map>

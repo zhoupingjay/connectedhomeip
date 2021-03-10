@@ -1,0 +1,9 @@
+<map id="mdns::Minimal::ConstHeaderRef::GetFlags" name="mdns::Minimal::ConstHeaderRef::GetFlags">
+<area shape="rect" id="node1" title=" " alt="" coords="531,93,723,135"/>
+<area shape="rect" id="node2" href="$classmdns_1_1_minimal_1_1_response_sender.html#ababaa9862c7877722b1b45b17365ee7c" title="Add the specified resource record to the response." alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$namespacemdns_1_1_minimal.html#aa2ec27a27a315460f9520cf8433055d3" title="Parses a mMDNS packet." alt="" coords="280,71,471,98"/>
+<area shape="rect" id="node4" href="$classmdns_1_1_minimal_1_1_query_builder.html#a2d26a9ac925bf0d6130217d53b0fe275" title=" " alt="" coords="280,123,471,164"/>
+<area shape="rect" id="node6" href="$classmdns_1_1_minimal_1_1_response_builder.html#acbdd1349115c49d41796f46aa3cfd291" title=" " alt="" coords="268,188,483,229"/>
+<area shape="rect" id="node5" href="$classmdns_1_1_minimal_1_1_query_builder.html#a3468696909738676782107711e5f56db" title=" " alt="" coords="17,123,208,164"/>
+<area shape="rect" id="node7" href="$classmdns_1_1_minimal_1_1_response_builder.html#a489ba85fc7cb69c05be75a807df29f63" title=" " alt="" coords="5,188,220,229"/>
+</map>

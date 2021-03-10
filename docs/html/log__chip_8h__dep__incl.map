@@ -1,0 +1,4 @@
+<map id="lib/support/pw_log_chip/public/pw_log_chip/log_chip.h" name="lib/support/pw_log_chip/public/pw_log_chip/log_chip.h">
+<area shape="rect" id="node1" title="This header redirects Pigweed logging prints to chip." alt="" coords="43,5,179,61"/>
+<area shape="rect" id="node2" href="$log__backend_8h.html" title="This header interfaces with the Pigweed logging facade by overriding the backend header." alt="" coords="5,109,216,165"/>
+</map>

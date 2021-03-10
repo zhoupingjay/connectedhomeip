@@ -1,0 +1,9 @@
+<map id="platform/cc13x2_26x2/chipOBleProfile.c" name="platform/cc13x2_26x2/chipOBleProfile.c">
+<area shape="rect" id="node1" title="This file contains the CHIPOBLE profile sample GATT service profile for use with the BLE Manager." alt="" coords="176,5,327,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,71,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="95,95,151,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="175,95,226,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="250,95,354,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="378,95,485,121"/>
+<area shape="rect" id="node7" href="$chip_o_ble_profile_8h.html" title="This file contains the CHIPOBLE profile definitions and prototypes prototypes." alt="" coords="509,95,631,121"/>
+</map>

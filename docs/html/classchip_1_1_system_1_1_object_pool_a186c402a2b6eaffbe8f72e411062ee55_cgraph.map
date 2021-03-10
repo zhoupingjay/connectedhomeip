@@ -1,0 +1,4 @@
+<map id="chip::System::ObjectPool::Get" name="chip::System::ObjectPool::Get">
+<area shape="rect" id="node1" title="Returns a pointer the object at aIndex or NULL if the object is not retained by aLayer." alt="" coords="5,13,205,39"/>
+<area shape="rect" id="node2" href="$classchip_1_1_system_1_1_object.html#a66b163d631e00c827d467a3e4f023161" title="Test whether this object is retained by aLayer." alt="" coords="253,5,399,47"/>
+</map>
