@@ -1,4 +1,0 @@
-<map id="chip::PacketHeader::GetDestinationNodeId" name="chip::PacketHeader::GetDestinationNodeId">
-<area shape="rect" id="node1" title="Gets the destination node id in the current message." alt="" coords="281,5,440,47"/>
-<area shape="rect" id="node2" href="$classchip_1_1_rendezvous_session.html#a947a70779567b7919e7506888249e68f" title=" " alt="" coords="5,5,233,47"/>
-</map>

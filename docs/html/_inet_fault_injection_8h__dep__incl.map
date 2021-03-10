@@ -1,8 +1,0 @@
-<map id="inet/InetFaultInjection.h" name="inet/InetFaultInjection.h">
-<area shape="rect" id="node1" title="Header file for the fault&#45;injection utilities for Inet." alt="" coords="348,5,507,32"/>
-<area shape="rect" id="node2" href="$_inet_fault_injection_8cpp.html" title="Implementation of the fault&#45;injection utilities for Inet." alt="" coords="5,80,177,107"/>
-<area shape="rect" id="node3" href="$_inet_layer_8cpp.html" title="This file defines classes for abstracting access to and interactions with a platform&#45; and system&#45;spec..." alt="" coords="202,80,327,107"/>
-<area shape="rect" id="node4" href="$_raw_end_point_8cpp.html" title="This file implements the Inet::RawEndPoint class, where the CHIP Inet Layer encapsulates methods for ..." alt="" coords="351,80,503,107"/>
-<area shape="rect" id="node5" href="$_t_c_p_end_point_8cpp.html" title="This file implements the Inet::TCPEndPoint class, where the CHIP Inet Layer encapsulates methods for ..." alt="" coords="527,80,679,107"/>
-<area shape="rect" id="node6" href="$_u_d_p_end_point_8cpp.html" title="This file implements the Inet::UDPEndPoint class, where the CHIP Inet Layer encapsulates methods for ..." alt="" coords="703,80,858,107"/>
-</map>

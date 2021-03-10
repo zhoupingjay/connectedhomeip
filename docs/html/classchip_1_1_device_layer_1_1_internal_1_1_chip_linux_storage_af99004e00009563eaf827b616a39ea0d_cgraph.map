@@ -1,7 +1,0 @@
-<map id="chip::DeviceLayer::Internal::ChipLinuxStorage::ReadValueBin" name="chip::DeviceLayer::Internal::ChipLinuxStorage::ReadValueBin">
-<area shape="rect" id="node1" title=" " alt="" coords="5,20,181,76"/>
-<area shape="rect" id="node2" href="$classchip_1_1_device_layer_1_1_internal_1_1_chip_linux_storage_ini.html#ad35348f6c52334a3d192b2a6e9206af5" title=" " alt="" coords="229,20,405,76"/>
-<area shape="rect" id="node3" href="$namespacechip.html#a890185002e17e56ba7b217a8e89a377c" title=" " alt="" coords="483,5,626,32"/>
-<area shape="rect" id="node4" href="$classchip_1_1_platform_1_1_scoped_memory_buffer.html#a0de72ecf5e25a932a1e9b8518defe934" title=" " alt="" coords="453,57,656,98"/>
-<area shape="rect" id="node5" href="$classchip_1_1_platform_1_1_impl_1_1_scoped_memory_buffer_base.html#a02592fb5a69ef8a545f4d00191eba5e1" title=" " alt="" coords="704,57,915,98"/>
-</map>

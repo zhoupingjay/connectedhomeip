@@ -1,8 +1,0 @@
-<map id="platform/ESP32/ESP32Config.h" name="platform/ESP32/ESP32Config.h">
-<area shape="rect" id="node1" title="Utilities for interacting with the the ESP32 &quot;NVS&quot; key&#45;value store." alt="" coords="333,5,541,32"/>
-<area shape="rect" id="node2" href="$_e_s_p32_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for the ESP32." alt="" coords="5,80,200,121"/>
-<area shape="rect" id="node3" href="$_e_s_p32_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for the ESP32 platform." alt="" coords="224,80,419,121"/>
-<area shape="rect" id="node4" href="$_e_s_p32_config_8cpp.html" title="Utilities for interacting with the the ESP32 &quot;NVS&quot; key&#45;value store." alt="" coords="443,87,666,114"/>
-<area shape="rect" id="node5" href="$_e_s_p32_2_group_key_store_impl_8h.html" title="Provides an implementation of the Chip Group Key Store interface for the ESP32 platform." alt="" coords="690,80,897,121"/>
-<area shape="rect" id="node6" href="$_e_s_p32_2_group_key_store_impl_8cpp.html" title="Provides an implementation of the Chip GroupKeyStore interface for the ESP32 platform." alt="" coords="690,169,897,211"/>
-</map>

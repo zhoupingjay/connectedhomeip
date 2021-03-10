@@ -1,9 +1,0 @@
-<map id="platform/EFR32/PlatformManagerImpl.h" name="platform/EFR32/PlatformManagerImpl.h">
-<area shape="rect" id="node1" title="Provides an implementation of the PlatformManager object for EFR32 platforms using the Silicon Labs S..." alt="" coords="240,5,457,47"/>
-<area shape="rect" id="node2" href="$_generic_platform_manager_impl___free_r_t_o_s_8h.html" title="Provides an generic implementation of PlatformManager features for use on FreeRTOS platforms." alt="" coords="235,95,462,136"/>
-<area shape="rect" id="node3" href="$_generic_platform_manager_impl_8h.html" title="Provides an generic implementation of PlatformManager features for use on various platforms." alt="" coords="5,184,169,225"/>
-<area shape="rect" id="node4" title=" " alt="" coords="194,191,290,218"/>
-<area shape="rect" id="node5" title=" " alt="" coords="315,191,383,218"/>
-<area shape="rect" id="node6" title=" " alt="" coords="407,191,482,218"/>
-<area shape="rect" id="node7" title=" " alt="" coords="506,191,565,218"/>
-</map>

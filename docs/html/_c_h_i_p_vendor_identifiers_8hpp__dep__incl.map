@@ -1,8 +1,0 @@
-<map id="lib/core/CHIPVendorIdentifiers.hpp" name="lib/core/CHIPVendorIdentifiers.hpp">
-<area shape="rect" id="node1" title="This file defines chip vendor identifiers." alt="" coords="432,5,656,32"/>
-<area shape="rect" id="node2" href="$cc13x2__26x2_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for the Texas Instruments..." alt="" coords="5,80,208,121"/>
-<area shape="rect" id="node3" href="$_darwin_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for Darwin platforms." alt="" coords="232,80,427,121"/>
-<area shape="rect" id="node4" href="$_linux_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for Linux platforms." alt="" coords="451,80,637,121"/>
-<area shape="rect" id="node5" href="$qpg6100_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for QPG6100 platforms ." alt="" coords="661,80,864,121"/>
-<area shape="rect" id="node6" href="$_zephyr_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for Zephyr platforms." alt="" coords="888,80,1083,121"/>
-</map>

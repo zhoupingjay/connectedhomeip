@@ -1,5 +1,0 @@
-<map id="setup_payload/QRCodeSetupPayloadGenerator.h" name="setup_payload/QRCodeSetupPayloadGenerator.h">
-<area shape="rect" id="node1" title="This file describes a QRCode Setup Payload generator based on the CHIP specification." alt="" coords="113,5,308,47"/>
-<area shape="rect" id="node2" href="$_q_r_code_setup_payload_generator_8cpp.html" title="This file implements a QRCode Setup Payload generator in accordance with the CHIP specification." alt="" coords="5,95,200,136"/>
-<area shape="rect" id="node3" href="$_setup_payload_helper_8cpp.html" title=" " alt="" coords="225,95,415,136"/>
-</map>

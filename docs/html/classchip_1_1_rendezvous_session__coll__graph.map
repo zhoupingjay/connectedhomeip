@@ -1,8 +1,0 @@
-<map id="chip::RendezvousSession" name="chip::RendezvousSession">
-<area shape="rect" id="node1" title="RendezvousSession establishes and maintains the first connection between a commissioner and a device." alt="" coords="288,130,463,157"/>
-<area shape="rect" id="node2" href="$classchip_1_1_session_establishment_delegate.html" title=" " alt="" coords="31,5,215,47"/>
-<area shape="rect" id="node3" href="$classchip_1_1_rendezvous_session_delegate.html" title=" " alt="" coords="9,71,236,98"/>
-<area shape="rect" id="node4" href="$classchip_1_1_rendezvous_device_credentials_delegate.html" title=" " alt="" coords="5,123,240,164"/>
-<area shape="rect" id="node5" href="$classchip_1_1_network_provisioning_delegate.html" title=" " alt="" coords="35,188,210,229"/>
-<area shape="rect" id="node6" href="$classchip_1_1_transport_mgr_delegate.html" title=" " alt="" coords="31,254,214,281"/>
-</map>

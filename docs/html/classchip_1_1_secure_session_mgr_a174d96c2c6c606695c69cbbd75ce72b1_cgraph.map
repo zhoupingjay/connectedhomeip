@@ -1,9 +1,0 @@
-<map id="chip::SecureSessionMgr::SendEncryptedMessage" name="chip::SecureSessionMgr::SendEncryptedMessage">
-<area shape="rect" id="node1" title=" " alt="" coords="5,137,177,179"/>
-<area shape="rect" id="node2" href="$classchip_1_1_packet_header.html#a570a2f3af28666d172092cc72a4c5af4" title="A version of Decode that decodes from the start of a PacketBuffer and consumes the bytes we decoded f..." alt="" coords="230,104,385,145"/>
-<area shape="rect" id="node7" href="$classchip_1_1_secure_session_mgr.html#a142baabc460632900345e0145554969d" title="Send a message to a currently connected peer." alt="" coords="225,169,389,211"/>
-<area shape="rect" id="node3" href="$classchip_1_1_system_1_1_packet_buffer.html#a848ce6ace3e83f9f34d56df533e5c18c" title="Adjust the current buffer to indicate the amount of data consumed." alt="" coords="437,5,620,47"/>
-<area shape="rect" id="node4" href="$classchip_1_1_system_1_1_packet_buffer.html#a9ac3f03ccf49d369aebc939d0b7b5edb" title="Get the length, in bytes, of data in a packet buffer." alt="" coords="437,71,620,112"/>
-<area shape="rect" id="node5" href="$classchip_1_1_packet_header.html#afb2943876089bafcd73e42e4757f733c" title="Decodes a header from the given buffer." alt="" coords="460,136,597,177"/>
-<area shape="rect" id="node6" href="$classchip_1_1_system_1_1_packet_buffer.html#a1ccfaa7a1054db388a2f1ceba4501e17" title="Get a pointer to the start of data in a buffer." alt="" coords="437,201,620,243"/>
-</map>

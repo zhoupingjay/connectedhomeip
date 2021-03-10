@@ -1,8 +1,0 @@
-<map id="chip::DeviceLayer::Internal::GroupKeyStoreImpl" name="chip::DeviceLayer::Internal::GroupKeyStoreImpl">
-<area shape="rect" id="node1" title="An implementation of the Chip GroupKeyStoreBase API for platforms based on the Silicon Labs SDK." alt="" coords="264,39,451,80"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,216,47"/>
-<area shape="rect" id="node3" href="$classchip_1_1_device_layer_1_1_internal_1_1_e_f_r32_config.html" title=" " alt="" coords="35,71,187,112"/>
-<area shape="rect" id="node4" href="$classchip_1_1_device_layer_1_1_internal_1_1_e_s_p32_config.html" title="Provides functions and definitions for accessing device configuration information on the ESP32." alt="" coords="35,136,187,177"/>
-<area shape="rect" id="node5" href="$classchip_1_1_device_layer_1_1_internal_1_1_k32_w_config.html" title="This implementation uses the NXP Persistent Data Manager (PDM) library as the underlying storage laye..." alt="" coords="37,201,184,243"/>
-<area shape="rect" id="node6" href="$classchip_1_1_device_layer_1_1_internal_1_1_q_p_g6100_config.html" title="This implementation uses the Qorvo NVM component as the underlying storage layer." alt="" coords="27,267,195,308"/>
-</map>

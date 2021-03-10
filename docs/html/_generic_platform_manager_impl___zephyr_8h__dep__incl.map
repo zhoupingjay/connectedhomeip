@@ -1,7 +1,0 @@
-<map id="include/platform/internal/GenericPlatformManagerImpl_Zephyr.h" name="include/platform/internal/GenericPlatformManagerImpl_Zephyr.h">
-<area shape="rect" id="node1" title="Provides an generic implementation of PlatformManager features for use on Zephyr RTOS platforms." alt="" coords="108,5,303,61"/>
-<area shape="rect" id="node2" href="$_generic_platform_manager_impl___zephyr_8cpp.html" title="Contains non&#45;inline method definitions for the GenericPlatformManagerImpl_Zephyr&lt;&gt; template." alt="" coords="5,109,200,165"/>
-<area shape="rect" id="node4" href="$_zephyr_2_platform_manager_impl_8h.html" title="Provides an implementation of the PlatformManager object." alt="" coords="225,117,391,158"/>
-<area shape="rect" id="node3" href="$_zephyr_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for Zephyr platforms." alt="" coords="19,213,186,255"/>
-<area shape="rect" id="node5" href="$nrfconnect_2_platform_manager_impl_8h.html" title="Provides an implementation of the PlatformManager object for nRF Connect SDK platforms,..." alt="" coords="227,213,389,255"/>
-</map>

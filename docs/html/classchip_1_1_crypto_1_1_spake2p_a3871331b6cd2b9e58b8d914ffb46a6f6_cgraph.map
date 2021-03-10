@@ -1,4 +1,0 @@
-<map id="chip::Crypto::Spake2p::Init" name="chip::Crypto::Spake2p::Init">
-<area shape="rect" id="node1" title="Initialize Spake2+ with some context specific information." alt="" coords="5,5,157,47"/>
-<area shape="rect" id="node2" href="$classchip_1_1_crypto_1_1_spake2p.html#a76bf472d8ca4011a2df33d44a95fdfcc" title="Initialize underlying implementation curve, points, field elements, etc." alt="" coords="205,5,357,47"/>
-</map>

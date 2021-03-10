@@ -1,8 +1,0 @@
-<map id="include/platform/internal/GenericPlatformManagerImpl_FreeRTOS.cpp" name="include/platform/internal/GenericPlatformManagerImpl_FreeRTOS.cpp">
-<area shape="rect" id="node1" title="Contains non&#45;inline method definitions for the GenericPlatformManagerImpl_FreeRTOS&lt;&gt; template." alt="" coords="457,5,651,61"/>
-<area shape="rect" id="node2" href="$cc13x2__26x2_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for the Texas Instruments CC1352 platform." alt="" coords="5,109,180,151"/>
-<area shape="rect" id="node3" href="$_e_f_r32_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for EFR32 platforms using the Silicon Labs E..." alt="" coords="204,109,421,151"/>
-<area shape="rect" id="node4" href="$_e_s_p32_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for the ESP32 platform." alt="" coords="445,109,663,151"/>
-<area shape="rect" id="node5" href="$_k32_w_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for K32W platforms using the NXP K32W SDK." alt="" coords="687,109,899,151"/>
-<area shape="rect" id="node6" href="$qpg6100_2_platform_manager_impl_8cpp.html" title="Provides an implementation of the PlatformManager object for QPG6100 platforms." alt="" coords="923,109,1097,151"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="chip::DeviceLayer::Internal::PosixConfig" name="chip::DeviceLayer::Internal::PosixConfig">
-<area shape="rect" id="node1" title="Provides functions and definitions for accessing device configuration information on the Posix." alt="" coords="21,5,165,47"/>
-<area shape="rect" id="node2" href="$classchip_1_1_device_layer_1_1_configuration_manager_impl.html" title="Concrete implementation of the ConfigurationManager singleton object for the CC13X2_26X2 platform." alt="" coords="5,95,180,136"/>
-</map>

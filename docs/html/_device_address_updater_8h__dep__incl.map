@@ -1,7 +1,0 @@
-<map id="controller/DeviceAddressUpdater.h" name="controller/DeviceAddressUpdater.h">
-<area shape="rect" id="node1" title=" " alt="" coords="127,5,295,47"/>
-<area shape="rect" id="node2" href="$_device_address_updater_8cpp.html" title=" " alt="" coords="5,102,173,143"/>
-<area shape="rect" id="node3" href="$_chip_device_controller-_script_binding_8cpp.html" title="Implementation of the native methods expected by the Python version of Chip Device Manager." alt="" coords="115,206,306,247"/>
-<area shape="rect" id="node4" href="$_chip_device_controller-_script_device_address_update_delegate_8h.html" title=" " alt="" coords="249,95,495,151"/>
-<area shape="rect" id="node5" href="$_chip_device_controller-_script_device_address_update_delegate_8cpp.html" title=" " alt="" coords="330,199,577,255"/>
-</map>

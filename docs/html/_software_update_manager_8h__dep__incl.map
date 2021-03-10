@@ -1,4 +1,0 @@
-<map id="include/platform/SoftwareUpdateManager.h" name="include/platform/SoftwareUpdateManager.h">
-<area shape="rect" id="node1" title="Defines the public interface for the Device Layer SoftwareUpdateManager object." alt="" coords="45,5,216,47"/>
-<area shape="rect" id="node2" href="$_generic_software_update_manager_impl_8h.html" title="Provides an generic implementation of SoftwareUpdateManager features for use on various platforms." alt="" coords="5,95,256,136"/>
-</map>

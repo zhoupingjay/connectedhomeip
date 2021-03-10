@@ -1,7 +1,0 @@
-<map id="lib/core/CHIPConfig.h" name="lib/core/CHIPConfig.h">
-<area shape="rect" id="node1" title="This file defines default compile&#45;time configuration constants for CHIP." alt="" coords="95,5,246,32"/>
-<area shape="rect" id="node2" href="$_ble_config_8h.html" title="This file defines default compile&#45;time configuration constants for the CHIP BleLayer,..." alt="" coords="115,80,226,107"/>
-<area shape="rect" id="node3" href="$_system_config_8h.html" title="This file contains default compile&#45;time configuration constants for the CHIP System Layer,..." alt="" coords="5,155,168,181"/>
-<area shape="rect" id="node4" title=" " alt="" coords="173,229,238,256"/>
-<area shape="rect" id="node5" title=" " alt="" coords="47,229,126,256"/>
-</map>

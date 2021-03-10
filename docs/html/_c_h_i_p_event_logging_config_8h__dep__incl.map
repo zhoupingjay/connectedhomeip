@@ -1,6 +1,0 @@
-<map id="lib/core/CHIPEventLoggingConfig.h" name="lib/core/CHIPEventLoggingConfig.h">
-<area shape="rect" id="node1" title="This file defines compile time configuration of the Event Logging profile." alt="" coords="93,5,273,47"/>
-<area shape="rect" id="node2" href="$_c_h_i_p_fault_injection_8h.html" title="Header file for the fault&#45;injection utilities for Inet." alt="" coords="79,95,287,121"/>
-<area shape="rect" id="node3" href="$_b_l_e_end_point_8cpp.html" title="This file implements a Bluetooth Low Energy (BLE) connection endpoint abstraction for the byte&#45;stream..." alt="" coords="5,169,152,196"/>
-<area shape="rect" id="node4" href="$_c_h_i_p_fault_injection_8cpp.html" title="Implementation of the fault&#45;injection utilities for CHIP." alt="" coords="177,169,399,196"/>
-</map>

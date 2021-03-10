@@ -1,7 +1,0 @@
-<map id="chip::PayloadHeader::DecodeAndConsume" name="chip::PayloadHeader::DecodeAndConsume">
-<area shape="rect" id="node1" title="A version of Decode that decodes from the start of a PacketBuffer and consumes the bytes we decoded f..." alt="" coords="5,104,160,145"/>
-<area shape="rect" id="node2" href="$classchip_1_1_system_1_1_packet_buffer.html#a848ce6ace3e83f9f34d56df533e5c18c" title="Adjust the current buffer to indicate the amount of data consumed." alt="" coords="208,5,391,47"/>
-<area shape="rect" id="node3" href="$classchip_1_1_system_1_1_packet_buffer.html#a9ac3f03ccf49d369aebc939d0b7b5edb" title="Get the length, in bytes, of data in a packet buffer." alt="" coords="208,71,391,112"/>
-<area shape="rect" id="node4" href="$classchip_1_1_payload_header.html#aa5f798ce52327936877ac0c414fea586" title="Decodes the encrypted header fields from the given buffer." alt="" coords="228,136,371,177"/>
-<area shape="rect" id="node5" href="$classchip_1_1_system_1_1_packet_buffer.html#a1ccfaa7a1054db388a2f1ceba4501e17" title="Get a pointer to the start of data in a buffer." alt="" coords="208,201,391,243"/>
-</map>

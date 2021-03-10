@@ -1,7 +1,0 @@
-<map id="system/SystemTimer.h" name="system/SystemTimer.h">
-<area shape="rect" id="node1" title="This file defines the chip::System::Timer class and its related types used for representing an in&#45;pro..." alt="" coords="259,5,416,32"/>
-<area shape="rect" id="node2" href="$_inet_layer_8cpp.html" title="This file defines classes for abstracting access to and interactions with a platform&#45; and system&#45;spec..." alt="" coords="5,80,131,107"/>
-<area shape="rect" id="node3" href="$_system_layer_8cpp.html" title="This file contains definitions of the chip::System::Layer class methods and related data and function..." alt="" coords="155,80,325,107"/>
-<area shape="rect" id="node4" href="$_system_stats_8cpp.html" title="This file implements the CHIP API to collect statistics on the state of CHIP, Inet and System resourc..." alt="" coords="349,80,520,107"/>
-<area shape="rect" id="node5" href="$_system_timer_8cpp.html" title="This file defines the member functions and private data for the chip::System::Timer class,..." alt="" coords="544,80,715,107"/>
-</map>

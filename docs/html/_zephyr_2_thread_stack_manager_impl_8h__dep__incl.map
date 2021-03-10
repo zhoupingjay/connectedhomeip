@@ -1,5 +1,0 @@
-<map id="platform/Zephyr/ThreadStackManagerImpl.h" name="platform/Zephyr/ThreadStackManagerImpl.h">
-<area shape="rect" id="node1" title="Provides an implementation of the ThreadStackManager object for Zephyr platforms." alt="" coords="110,5,301,47"/>
-<area shape="rect" id="node2" href="$nrfconnect_2_thread_stack_manager_impl_8h.html" title="Provides an implementation of the ThreadStackManager object for nRF Connect SDK platforms,..." alt="" coords="5,95,192,136"/>
-<area shape="rect" id="node3" href="$_zephyr_2_thread_stack_manager_impl_8cpp.html" title="Provides an implementation of the ThreadStackManager object for Zephyr platforms." alt="" coords="217,95,407,136"/>
-</map>

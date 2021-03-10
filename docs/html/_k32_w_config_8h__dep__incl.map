@@ -1,8 +1,0 @@
-<map id="platform/K32W/K32WConfig.h" name="platform/K32W/K32WConfig.h">
-<area shape="rect" id="node1" title="Utilities for accessing persisted device configuration on platforms based on the NXP K32W SDK." alt="" coords="327,5,525,32"/>
-<area shape="rect" id="node2" href="$_k32_w_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for K32W platforms using ..." alt="" coords="5,80,196,121"/>
-<area shape="rect" id="node3" href="$_k32_w_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for K32W platforms using the NXP SDK." alt="" coords="220,80,411,121"/>
-<area shape="rect" id="node4" href="$_k32_w_2_group_key_store_impl_8h.html" title="Provides an implementation of the Chip Group Key Store interface for platforms based on the NXP SDK." alt="" coords="435,80,638,121"/>
-<area shape="rect" id="node6" href="$_k32_w_config_8cpp.html" title="Utilities for accessing persisted device configuration on platforms based on the NXP K32W SDK." alt="" coords="663,87,875,114"/>
-<area shape="rect" id="node5" href="$_k32_w_2_group_key_store_impl_8cpp.html" title="Provides an implementation of the Chip GroupKeyStore interface for platforms based on the NXP SDK." alt="" coords="435,169,638,211"/>
-</map>

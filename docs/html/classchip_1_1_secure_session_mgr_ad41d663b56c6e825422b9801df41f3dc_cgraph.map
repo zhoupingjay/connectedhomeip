@@ -1,6 +1,0 @@
-<map id="chip::SecureSessionMgr::OnMessageReceived" name="chip::SecureSessionMgr::OnMessageReceived">
-<area shape="rect" id="node1" title="Handle received secure message." alt="" coords="5,39,169,80"/>
-<area shape="rect" id="node2" href="$classchip_1_1_transport_1_1_peer_connections.html#ab818c2293f611703a51e34ddecbbfc13" title="Get a peer connection state given a Peer address." alt="" coords="217,5,435,47"/>
-<area shape="rect" id="node4" href="$classchip_1_1_packet_header.html#a83f3ec311149a53e73eed684e7a096b9" title=" " alt="" coords="251,71,401,112"/>
-<area shape="rect" id="node3" href="$classchip_1_1_transport_1_1_peer_connection_state.html#a34d477138e340e25bef7d0e628ea1178" title=" " alt="" coords="483,5,693,47"/>
-</map>

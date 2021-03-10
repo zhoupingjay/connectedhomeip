@@ -1,4 +1,0 @@
-<map id="chip::Mdns::ChipMdnsInit" name="chip::Mdns::ChipMdnsInit">
-<area shape="rect" id="node1" title="This function intializes the mdns module." alt="" coords="232,13,403,39"/>
-<area shape="rect" id="node2" href="$classchip_1_1_mdns_1_1_discovery_impl_platform.html#a973b4bac9eb9a03ea581590dd1d54c0c" title="Starts the advertiser." alt="" coords="5,5,184,47"/>
-</map>

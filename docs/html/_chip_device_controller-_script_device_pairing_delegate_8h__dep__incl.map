@@ -1,5 +1,0 @@
-<map id="controller/python/ChipDeviceController&#45;ScriptDevicePairingDelegate.h" name="controller/python/ChipDeviceController&#45;ScriptDevicePairingDelegate.h">
-<area shape="rect" id="node1" title="Declaration of DevicePairingDelegate of CHIP Device Controller for Python." alt="" coords="99,5,359,47"/>
-<area shape="rect" id="node2" href="$_chip_device_controller-_script_binding_8cpp.html" title="Implementation of the native methods expected by the Python version of Chip Device Manager." alt="" coords="5,95,196,136"/>
-<area shape="rect" id="node3" href="$_chip_device_controller-_script_device_pairing_delegate_8cpp.html" title=" " alt="" coords="221,95,495,136"/>
-</map>

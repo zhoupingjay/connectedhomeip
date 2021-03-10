@@ -1,6 +1,0 @@
-<map id="chip::PayloadHeader::Decode" name="chip::PayloadHeader::Decode">
-<area shape="rect" id="node1" title="Decodes the encrypted header fields from the given buffer." alt="" coords="443,39,585,80"/>
-<area shape="rect" id="node2" href="$classchip_1_1_payload_header.html#aba799f5f3e977ad5cd54ae67aaeaab70" title="A version of Decode that uses the type system to determine available space." alt="" coords="246,5,389,47"/>
-<area shape="rect" id="node3" href="$classchip_1_1_payload_header.html#a6dc462d37736e145540c2b288ea60c82" title="A version of Decode that decodes from the start of a PacketBuffer and consumes the bytes we decoded f..." alt="" coords="240,71,395,112"/>
-<area shape="rect" id="node4" href="$namespacechip_1_1_secure_message_codec.html#a8c74f179b64643d01e43d3ea231ef3b7" title="Decrypt the message, perform message integrity check, and decode the payload header." alt="" coords="5,71,192,112"/>
-</map>

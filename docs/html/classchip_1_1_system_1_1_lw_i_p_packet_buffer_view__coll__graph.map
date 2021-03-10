@@ -1,4 +1,0 @@
-<map id="chip::System::LwIPPacketBufferView" name="chip::System::LwIPPacketBufferView">
-<area shape="rect" id="node1" title="Provide low&#45;level access to a raw pbuf *, limited to specific classes that interface with LwIP." alt="" coords="7,95,186,136"/>
-<area shape="rect" id="node2" href="$classchip_1_1_system_1_1_packet_buffer_handle.html" title="Tracks ownership of a PacketBuffer." alt="" coords="5,5,188,47"/>
-</map>

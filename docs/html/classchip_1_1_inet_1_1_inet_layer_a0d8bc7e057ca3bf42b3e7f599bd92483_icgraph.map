@@ -1,4 +1,0 @@
-<map id="chip::Inet::InetLayer::GetLinkLocalAddr" name="chip::Inet::InetLayer::GetLinkLocalAddr">
-<area shape="rect" id="node1" title="Get the link local IPv6 address for a specified link or interface." alt="" coords="217,5,356,47"/>
-<area shape="rect" id="node2" href="$classchip_1_1_inet_1_1_t_c_p_end_point.html#a0020508efa72ed087366ad3620fcf9c1" title="Initiate a TCP connection." alt="" coords="5,5,169,47"/>
-</map>

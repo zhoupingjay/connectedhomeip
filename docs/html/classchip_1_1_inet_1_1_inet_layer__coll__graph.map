@@ -1,5 +1,0 @@
-<map id="chip::Inet::InetLayer" name="chip::Inet::InetLayer">
-<area shape="rect" id="node1" title="This provides access to Internet services, including timers, Domain Name System (DNS) resolution,..." alt="" coords="43,109,182,136"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,13,60,39"/>
-<area shape="rect" id="node3" href="$classchip_1_1_system_1_1_lw_i_p_event_handler_delegate.html" title=" " alt="" coords="85,5,301,47"/>
-</map>

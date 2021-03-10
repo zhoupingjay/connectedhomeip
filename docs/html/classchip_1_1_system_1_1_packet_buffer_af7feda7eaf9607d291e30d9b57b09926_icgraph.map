@@ -1,9 +1,0 @@
-<map id="chip::System::PacketBuffer::SetStart" name="chip::System::PacketBuffer::SetStart">
-<area shape="rect" id="node1" title="Set the the start of data in a buffer, adjusting length and total length accordingly." alt="" coords="471,104,653,145"/>
-<area shape="rect" id="node2" href="$classchip_1_1_packet_header.html#a683f0e630ef06854414cc61d097fd086" title="A version of Encode that encodes into a PacketBuffer before the PacketBuffer&#39;s current data." alt="" coords="261,5,401,47"/>
-<area shape="rect" id="node4" href="$classchip_1_1_payload_header.html#a70e400595194d05effccb9c1fd656afd" title="A version of Encode that encodes into a PacketBuffer before the PacketBuffer&#39;s current data." alt="" coords="260,71,403,112"/>
-<area shape="rect" id="node6" href="$classchip_1_1_ble_1_1_btp_engine.html#ab258c6594642545c5a6da37065eea9c3" title=" " alt="" coords="240,136,423,177"/>
-<area shape="rect" id="node7" href="$classchip_1_1_transport_1_1_t_c_p_base.html#a42df9559e541cdfa3789e68ae32e3417" title="Send a message to the specified target." alt="" coords="244,201,419,243"/>
-<area shape="rect" id="node3" href="$classchip_1_1_transport_1_1_u_d_p.html#ac103028dea48b3b17323e5b6cd5a27ac" title="Send a message to the specified target." alt="" coords="25,5,172,47"/>
-<area shape="rect" id="node5" href="$namespacechip_1_1_secure_message_codec.html#ab4b26d118b04e9a3aeecd8ea55c82b72" title="Attach payload header to the message and encrypt the message buffer using key from the connection sta..." alt="" coords="5,71,192,112"/>
-</map>

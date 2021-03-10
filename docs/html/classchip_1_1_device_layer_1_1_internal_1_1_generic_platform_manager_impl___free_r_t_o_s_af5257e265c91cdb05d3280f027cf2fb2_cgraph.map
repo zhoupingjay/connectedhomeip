@@ -1,6 +1,0 @@
-<map id="chip::DeviceLayer::Internal::GenericPlatformManagerImpl_FreeRTOS::_RunEventLoop" name="chip::DeviceLayer::Internal::GenericPlatformManagerImpl_FreeRTOS::_RunEventLoop">
-<area shape="rect" id="node1" title=" " alt="" coords="5,20,224,76"/>
-<area shape="rect" id="node2" href="$namespacechip.html#ae43b53bef8897cb48d4b8173e5c01b09" title="This routine returns a human&#45;readable NULL&#45;terminated C string describing the provided error." alt="" coords="299,5,398,32"/>
-<area shape="rect" id="node4" href="$classchip_1_1_system_1_1_layer.html#a0d7ae2bcef7d6fcb67fa60af7e4697ba" title="Handle the platform timer expiration event." alt="" coords="272,57,425,98"/>
-<area shape="rect" id="node3" href="$namespacechip.html#a94dcfc9993bc165d7620d8bbfa93724e" title="Generates a human&#45;readable NULL&#45;terminated C string describing the provided error." alt="" coords="473,5,596,32"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="transport/raw/TCP.h" name="transport/raw/TCP.h">
-<area shape="rect" id="node1" title="This file defines the CHIP Connection object that maintains TCP connections." alt="" coords="12,5,151,32"/>
-<area shape="rect" id="node2" href="$_t_c_p_8cpp.html" title="This file implements the CHIP Transport object that maintains TCP connections to peers." alt="" coords="5,80,157,107"/>
-</map>

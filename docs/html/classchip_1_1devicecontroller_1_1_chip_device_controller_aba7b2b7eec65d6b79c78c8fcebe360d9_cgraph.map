@@ -1,4 +1,0 @@
-<map id="chip.devicecontroller.ChipDeviceController.onOperationalCredentialsRequested" name="chip.devicecontroller.ChipDeviceController.onOperationalCredentialsRequested">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,208,61"/>
-<area shape="rect" id="node2" href="$interfacechip_1_1devicecontroller_1_1_chip_device_controller_1_1_completion_listener.html#ad533d9d7c128643ab4d81dd9cb79f587" title="Notifies that the device is ready to receive operational credentials." alt="" coords="256,5,507,61"/>
-</map>

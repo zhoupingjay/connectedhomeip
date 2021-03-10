@@ -1,5 +1,0 @@
-<map id="chip::Transport::PeerConnections::MarkConnectionExpired" name="chip::Transport::PeerConnections::MarkConnectionExpired">
-<area shape="rect" id="node1" title="Convenience method to expired a peer connection state and fired the related callback." alt="" coords="5,5,223,47"/>
-<area shape="rect" id="node2" href="$classchip_1_1_transport_1_1_peer_address.html#ac22cdc60cce102f92fcbd1d5b47a62dc" title=" " alt="" coords="271,5,463,47"/>
-<area shape="rect" id="node3" href="$classchip_1_1_transport_1_1_peer_address.html#ac8fcd6c441f24d1594d2a589178dd1d8" title=" " alt="" coords="511,5,703,47"/>
-</map>

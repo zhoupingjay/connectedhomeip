@@ -1,7 +1,0 @@
-<map id="chip::SecondsSinceEpochToCalendarTime" name="chip::SecondsSinceEpochToCalendarTime">
-<area shape="rect" id="node1" title="Convert the number of seconds since 1970&#45;01&#45;01 00:00:00 UTC to a calendar date and time." alt="" coords="5,100,195,141"/>
-<area shape="rect" id="node2" href="$namespacechip.html#a15a4cf36fc87a7c69af5f0e3ac76b622" title=" " alt="" coords="243,81,492,107"/>
-<area shape="rect" id="node5" href="$namespacechip.html#ac373d1277369855d2ce4d5a1f90b2562" title=" " alt="" coords="601,137,680,163"/>
-<area shape="rect" id="node3" href="$namespacechip.html#ac64dc76d077901bc2ea4b9fb0adf7229" title=" " alt="" coords="545,5,736,47"/>
-<area shape="rect" id="node4" href="$namespacechip.html#ad7141c66fd1e2b3f562588d02a865085" title=" " alt="" coords="540,71,741,112"/>
-</map>

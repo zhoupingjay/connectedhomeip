@@ -1,5 +1,0 @@
-<map id="chip::SecureSessionMgr::GetPeerConnectionState" name="chip::SecureSessionMgr::GetPeerConnectionState">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,180,47"/>
-<area shape="rect" id="node2" href="$classchip_1_1_transport_1_1_peer_connections.html#ab818c2293f611703a51e34ddecbbfc13" title="Get a peer connection state given a Peer address." alt="" coords="228,5,445,47"/>
-<area shape="rect" id="node3" href="$classchip_1_1_transport_1_1_peer_connection_state.html#a34d477138e340e25bef7d0e628ea1178" title=" " alt="" coords="493,5,704,47"/>
-</map>

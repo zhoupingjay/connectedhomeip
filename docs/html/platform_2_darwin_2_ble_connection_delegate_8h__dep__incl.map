@@ -1,5 +1,0 @@
-<map id="platform/Darwin/BleConnectionDelegate.h" name="platform/Darwin/BleConnectionDelegate.h">
-<area shape="rect" id="node1" title=" " alt="" coords="116,5,319,47"/>
-<area shape="rect" id="node2" href="$_ble_connection_delegate_impl_8mm.html" title="Provides an implementation of BleConnectionDelegate for Darwin platforms." alt="" coords="5,95,208,136"/>
-<area shape="rect" id="node3" href="$_darwin_2_b_l_e_manager_impl_8cpp.html" title="Provides an implementation of the BLEManager singleton object for Darwin platforms." alt="" coords="233,95,426,136"/>
-</map>

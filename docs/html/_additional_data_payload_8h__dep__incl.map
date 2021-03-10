@@ -1,6 +1,0 @@
-<map id="setup_payload/AdditionalDataPayload.h" name="setup_payload/AdditionalDataPayload.h">
-<area shape="rect" id="node1" title="This file describes a Additional Data Payload class to hold data enumerated from a byte stream." alt="" coords="110,5,277,47"/>
-<area shape="rect" id="node2" href="$_additional_data_payload_generator_8cpp.html" title="This file provides a utility to generate Additional Data payload and its members (e...." alt="" coords="5,95,184,136"/>
-<area shape="rect" id="node3" href="$_additional_data_payload_parser_8h.html" title="Copyright (c) 2020 Project CHIP Authors." alt="" coords="209,95,375,136"/>
-<area shape="rect" id="node4" href="$_additional_data_payload_parser_8cpp.html" title="Copyright (c) 2020 Project CHIP Authors." alt="" coords="209,184,375,225"/>
-</map>

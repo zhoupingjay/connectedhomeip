@@ -1,7 +1,0 @@
-<map id="platform/Linux/CHIPLinuxStorage.h" name="platform/Linux/CHIPLinuxStorage.h">
-<area shape="rect" id="node1" title="This file defines a class for managing client application user&#45;editable settings." alt="" coords="323,5,495,47"/>
-<area shape="rect" id="node2" href="$_c_h_i_p_linux_storage_8cpp.html" title="This file implements a class for managing client application user&#45;editable settings on Linux platform..." alt="" coords="5,95,177,136"/>
-<area shape="rect" id="node3" href="$_linux_2_key_value_store_manager_impl_8cpp.html" title="Platform&#45;specific implementatiuon of KVS for linux." alt="" coords="202,95,397,136"/>
-<area shape="rect" id="node4" href="$_linux_2_key_value_store_manager_impl_8h.html" title="Platform&#45;specific implementation of KVS for linux." alt="" coords="421,95,615,136"/>
-<area shape="rect" id="node5" href="$_linux_2_posix_config_8cpp.html" title="Utilities for interacting with multiple file partitions and maps key&#45;value config calls to the correc..." alt="" coords="640,102,844,129"/>
-</map>

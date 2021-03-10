@@ -1,7 +1,0 @@
-<map id="chip::Transport::PeerConnections::ExpireInactiveConnections" name="chip::Transport::PeerConnections::ExpireInactiveConnections">
-<area shape="rect" id="node1" title="Iterates through all active connections and expires any connection with an idle time larger than the ..." alt="" coords="5,39,223,80"/>
-<area shape="rect" id="node2" href="$classchip_1_1_transport_1_1_peer_connection_state.html#ae72a1331744f89b500e41935e1cc7a6c" title=" " alt="" coords="274,5,485,47"/>
-<area shape="rect" id="node3" href="$classchip_1_1_transport_1_1_peer_connections.html#a42ab561803ff6cc0dfa16f09b0a6c5af" title="Convenience method to expired a peer connection state and fired the related callback." alt="" coords="271,71,488,112"/>
-<area shape="rect" id="node4" href="$classchip_1_1_transport_1_1_peer_address.html#ac22cdc60cce102f92fcbd1d5b47a62dc" title=" " alt="" coords="536,71,728,112"/>
-<area shape="rect" id="node5" href="$classchip_1_1_transport_1_1_peer_address.html#ac8fcd6c441f24d1594d2a589178dd1d8" title=" " alt="" coords="776,71,968,112"/>
-</map>

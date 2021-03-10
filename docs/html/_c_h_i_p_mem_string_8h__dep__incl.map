@@ -1,6 +1,0 @@
-<map id="lib/support/CHIPMemString.h" name="lib/support/CHIPMemString.h">
-<area shape="rect" id="node1" title="This file defines string operations that allocate heap memory." alt="" coords="189,5,383,32"/>
-<area shape="rect" id="node2" href="$_inet_interface_8cpp.html" title="Implementation of network interface abstraction layer." alt="" coords="5,87,151,114"/>
-<area shape="rect" id="node3" href="$_e_s_p32_config_8cpp.html" title="Utilities for interacting with the the ESP32 &quot;NVS&quot; key&#45;value store." alt="" coords="175,87,397,114"/>
-<area shape="rect" id="node4" href="$_helper_8cpp.html" title="Provides Bluez dbus implementatioon for BLE." alt="" coords="422,80,561,121"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="platform/cc13x2_26x2/CC13X2_26X2Config.h" name="platform/cc13x2_26x2/CC13X2_26X2Config.h">
-<area shape="rect" id="node1" title="Utilities for accessing persisted device configuration on Texas Instruments cc13x2_26x2 SoCs." alt="" coords="225,5,388,47"/>
-<area shape="rect" id="node2" href="$_c_c13_x2__26_x2_config_8cpp.html" title="Utilities for interacting with multiple file partitions and maps key&#45;value config calls to the correc..." alt="" coords="5,95,181,136"/>
-<area shape="rect" id="node3" href="$cc13x2__26x2_2_configuration_manager_impl_8cpp.html" title="Provides the implementation of the Device Layer ConfigurationManager object for the Texas Instruments..." alt="" coords="205,95,408,136"/>
-<area shape="rect" id="node4" href="$cc13x2__26x2_2_configuration_manager_impl_8h.html" title="Provides an implementation of the ConfigurationManager object for the Texas Instruments CC1352 platfo..." alt="" coords="432,95,621,136"/>
-</map>

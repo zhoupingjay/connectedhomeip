@@ -1,5 +1,0 @@
-<map id="chip::BitMapObjectPool::ForEachActiveObject" name="chip::BitMapObjectPool::ForEachActiveObject">
-<area shape="rect" id="node1" title="Run a functor for each active object in the pool." alt="" coords="5,27,164,69"/>
-<area shape="rect" id="node2" href="$classchip_1_1_static_allocator_bitmap.html#af17202bc88707143a2ad30946002b776" title=" " alt="" coords="212,5,413,32"/>
-<area shape="rect" id="node3" href="$classchip_1_1_static_allocator_base.html#a966ed17627e5f5a5e4d6a38c4f242ff9" title=" " alt="" coords="228,57,397,98"/>
-</map>

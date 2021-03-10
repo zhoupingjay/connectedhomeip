@@ -1,4 +1,0 @@
-<map id="chip.devicecontroller.ChipDeviceController.onError" name="chip.devicecontroller.ChipDeviceController.onError">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,176,47"/>
-<area shape="rect" id="node2" href="$interfacechip_1_1devicecontroller_1_1_chip_device_controller_1_1_completion_listener.html#a5b895fb7ccd2066b5b96ea6480f06ed1" title="Notifies the listener of the error." alt="" coords="224,5,503,47"/>
-</map>

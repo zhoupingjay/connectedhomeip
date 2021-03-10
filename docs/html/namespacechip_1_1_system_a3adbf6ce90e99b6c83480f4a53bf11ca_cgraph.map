@@ -1,6 +1,0 @@
-<map id="chip::System::FormatPOSIXError" name="chip::System::FormatPOSIXError">
-<area shape="rect" id="node1" title="Given a POSIX error, returns a human&#45;readable NULL&#45;terminated C string describing the error." alt="" coords="5,71,223,98"/>
-<area shape="rect" id="node2" href="$namespacechip_1_1_system.html#a7b391e3c3fe326405eb6791d9effa98e" title="This implements a function to return an NULL&#45;terminated OS&#45;specific descriptive C string,..." alt="" coords="271,5,457,47"/>
-<area shape="rect" id="node3" href="$namespacechip.html#a94dcfc9993bc165d7620d8bbfa93724e" title="Generates a human&#45;readable NULL&#45;terminated C string describing the provided error." alt="" coords="303,71,425,98"/>
-<area shape="rect" id="node4" href="$namespacechip_1_1_system.html#afd75f141e556bde917bbe779e135b8e9" title="This implements an introspection function for CHIP System Layer errors that allows the caller to dete..." alt="" coords="271,122,457,149"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="chip::Optional::operator=" name="chip::Optional::operator=">
-<area shape="rect" id="node1" title="Assignment operator implementation." alt="" coords="5,81,171,108"/>
-<area shape="rect" id="node2" href="$classchip_1_1_optional.html#a26385b6e79d36f84fb7d79a75e84a9b4" title="Invalidate the value inside the optional." alt="" coords="219,5,392,32"/>
-<area shape="rect" id="node3" href="$classchip_1_1_optional.html#ab34dda6cd80632dc994056dd12d08116" title="Checks if the optional contains a value or not." alt="" coords="440,107,607,133"/>
-<area shape="rect" id="node4" href="$classchip_1_1_optional.html#acb7a003b881b9395e8bc913ab2e45adf" title="Make the optional contain a specific value." alt="" coords="224,107,387,133"/>
-<area shape="rect" id="node5" href="$classchip_1_1_optional.html#a541522fc0e3741b59b6796dedbaa13b3" title="Gets the current value of the optional." alt="" coords="234,157,377,184"/>
-</map>

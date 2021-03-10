@@ -1,6 +1,0 @@
-<map id="platform/ESP32/ESP32Utils.h" name="platform/ESP32/ESP32Utils.h">
-<area shape="rect" id="node1" title=" " alt="" coords="233,5,430,32"/>
-<area shape="rect" id="node2" href="$_e_s_p32_2_connectivity_manager_impl_8cpp.html" title=" " alt="" coords="5,80,196,121"/>
-<area shape="rect" id="node3" href="$_e_s_p32_config_8cpp.html" title="Utilities for interacting with the the ESP32 &quot;NVS&quot; key&#45;value store." alt="" coords="220,87,443,114"/>
-<area shape="rect" id="node4" href="$_e_s_p32_utils_8cpp.html" title="General utility methods for the ESP32 platform." alt="" coords="467,87,678,114"/>
-</map>

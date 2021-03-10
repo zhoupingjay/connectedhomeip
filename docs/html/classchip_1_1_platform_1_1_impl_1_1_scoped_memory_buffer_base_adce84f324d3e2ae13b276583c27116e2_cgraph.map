@@ -1,6 +1,0 @@
-<map id="chip::Platform::Impl::ScopedMemoryBufferBase::Calloc" name="chip::Platform::Impl::ScopedMemoryBufferBase::Calloc">
-<area shape="rect" id="node1" title=" " alt="" coords="5,27,192,83"/>
-<area shape="rect" id="node2" href="$classchip_1_1_platform_1_1_impl_1_1_scoped_memory_buffer_base.html#aa1c42896cfe0a909016134a4b3909b0a" title="Release memory used." alt="" coords="240,5,460,47"/>
-<area shape="rect" id="node4" href="$namespacechip_1_1_platform.html#a66e03b428c1d873c26c11aed99611d97" title="This function is called by the CHIP layer to allocate a block of memory for an array of num elements,..." alt="" coords="253,71,447,98"/>
-<area shape="rect" id="node3" href="$namespacechip_1_1_platform.html#a9a65a9cd65454203059a7878eb74ccc1" title="This function is called by the Chip layer to release a memory block allocated by the MemoryAlloc(),..." alt="" coords="508,13,692,39"/>
-</map>

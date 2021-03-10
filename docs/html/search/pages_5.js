@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['visual_20studio_20code_20development_12743',['Visual Studio Code Development',['../md___users_jwood__source_connectedhomeip_docs__v_s_c_o_d_e__d_e_v_e_l_o_p_m_e_n_t.html',1,'']]]
-];

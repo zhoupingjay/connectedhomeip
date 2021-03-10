@@ -1,9 +1,0 @@
-<map id="chip::BitFlags::Raw" name="chip::BitFlags::Raw">
-<area shape="rect" id="node1" title="Get the flags as the underlying integer type." alt="" coords="852,78,989,105"/>
-<area shape="rect" id="node2" href="$classchip_1_1_payload_header.html#ab5319d45f69cef251d09fc3ea6daee0e" title="Encodes the encrypted part of the header into the given buffer." alt="" coords="641,37,784,79"/>
-<area shape="rect" id="node7" href="$classchip_1_1_ble_1_1_btp_engine.html#ab258c6594642545c5a6da37065eea9c3" title=" " alt="" coords="621,103,804,144"/>
-<area shape="rect" id="node3" href="$classchip_1_1_payload_header.html#af6a4834d2dabc3aa0d40a8c5ab31d84f" title="A version of Encode that uses the type system to determine available space." alt="" coords="431,5,573,47"/>
-<area shape="rect" id="node4" href="$classchip_1_1_payload_header.html#a6c4d491caa9f015b95ceb6b986515ff1" title="A version of Encode that encodes into a PacketBuffer at the start of the current data space." alt="" coords="431,71,573,112"/>
-<area shape="rect" id="node5" href="$classchip_1_1_payload_header.html#a70e400595194d05effccb9c1fd656afd" title="A version of Encode that encodes into a PacketBuffer before the PacketBuffer&#39;s current data." alt="" coords="240,71,383,112"/>
-<area shape="rect" id="node6" href="$namespacechip_1_1_secure_message_codec.html#ab4b26d118b04e9a3aeecd8ea55c82b72" title="Attach payload header to the message and encrypt the message buffer using key from the connection sta..." alt="" coords="5,71,192,112"/>
-</map>

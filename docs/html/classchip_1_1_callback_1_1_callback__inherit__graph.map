@@ -1,4 +1,0 @@
-<map id="chip::Callback::Callback&lt; T &gt;" name="chip::Callback::Callback&lt; T &gt;">
-<area shape="rect" id="node1" title="Base struct used for registration of items of interest, includes memory for list management and stori..." alt="" coords="5,80,201,107"/>
-<area shape="rect" id="node2" href="$classchip_1_1_callback_1_1_cancelable.html" title="Private members of a Callback for use by subsystems that accept Callbacks for event registration/noti..." alt="" coords="14,5,193,32"/>
-</map>

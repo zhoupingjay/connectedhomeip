@@ -1,7 +1,0 @@
-<map id="inet/InetFaultInjection.h" name="inet/InetFaultInjection.h">
-<area shape="rect" id="node1" title="Header file for the fault&#45;injection utilities for Inet." alt="" coords="7,5,166,32"/>
-<area shape="rect" id="node2" href="$_inet_config_8h.html" title="This file defines default compile&#45;time configuration constants for the CHIP InetLayer,..." alt="" coords="27,80,146,107"/>
-<area shape="rect" id="node3" href="$_system_config_8h.html" title="This file contains default compile&#45;time configuration constants for the CHIP System Layer,..." alt="" coords="5,155,168,181"/>
-<area shape="rect" id="node4" title=" " alt="" coords="6,229,71,256"/>
-<area shape="rect" id="node5" title=" " alt="" coords="95,229,174,256"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="chip::Retransmit::Lifetime::Release" name="chip::Retransmit::Lifetime::Release">
-<area shape="rect" id="node1" title=" " alt="" coords="217,71,389,112"/>
-<area shape="rect" id="node2" href="$classchip_1_1_retransmit_1_1_cache.html#ae61ba10180d202a749e8a5033957b028" title="Remove a payload from the cache given the key." alt="" coords="5,5,169,47"/>
-<area shape="rect" id="node3" href="$classchip_1_1_retransmit_1_1_cache.html#a8688d76df44874e9368e34318468b7b9" title="Remove any matching payloads." alt="" coords="5,71,169,112"/>
-<area shape="rect" id="node4" href="$classchip_1_1_retransmit_1_1_cache.html#addee33b693cf377c28b0ae559c963517" title=" " alt="" coords="5,136,169,177"/>
-</map>

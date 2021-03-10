@@ -1,8 +1,0 @@
-<map id="include/platform/internal/GenericPlatformManagerImpl_FreeRTOS.h" name="include/platform/internal/GenericPlatformManagerImpl_FreeRTOS.h">
-<area shape="rect" id="node1" title="Provides an generic implementation of PlatformManager features for use on FreeRTOS platforms." alt="" coords="251,5,446,61"/>
-<area shape="rect" id="node2" href="$_generic_platform_manager_impl_8h.html" title="Provides an generic implementation of PlatformManager features for use on various platforms." alt="" coords="5,109,169,151"/>
-<area shape="rect" id="node3" title=" " alt="" coords="194,117,290,143"/>
-<area shape="rect" id="node4" title=" " alt="" coords="315,117,383,143"/>
-<area shape="rect" id="node5" title=" " alt="" coords="407,117,482,143"/>
-<area shape="rect" id="node6" title=" " alt="" coords="506,117,565,143"/>
-</map>

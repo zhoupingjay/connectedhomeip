@@ -1,4 +1,0 @@
-<map id="chip::Transport::PeerConnections::CreateNewPeerConnectionState" name="chip::Transport::PeerConnections::CreateNewPeerConnectionState">
-<area shape="rect" id="node1" title="Allocates a new peer connection state state object out of the internal resource pool." alt="" coords="5,5,225,47"/>
-<area shape="rect" id="node2" href="$classchip_1_1_transport_1_1_peer_connection_state.html#a87016188f3725d49d639873141e43edf" title=" " alt="" coords="273,5,484,47"/>
-</map>

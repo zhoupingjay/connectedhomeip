@@ -1,7 +1,0 @@
-<map id="chip::System::PacketBuffer::ConsumeHead" name="chip::System::PacketBuffer::ConsumeHead">
-<area shape="rect" id="node1" title="Adjust the current buffer to indicate the amount of data consumed." alt="" coords="443,39,625,80"/>
-<area shape="rect" id="node2" href="$classchip_1_1_packet_header.html#a570a2f3af28666d172092cc72a4c5af4" title="A version of Decode that decodes from the start of a PacketBuffer and consumes the bytes we decoded f..." alt="" coords="240,5,395,47"/>
-<area shape="rect" id="node4" href="$classchip_1_1_payload_header.html#a6dc462d37736e145540c2b288ea60c82" title="A version of Decode that decodes from the start of a PacketBuffer and consumes the bytes we decoded f..." alt="" coords="240,71,395,112"/>
-<area shape="rect" id="node3" href="$classchip_1_1_secure_session_mgr.html#a174d96c2c6c606695c69cbbd75ce72b1" title=" " alt="" coords="13,5,185,47"/>
-<area shape="rect" id="node5" href="$namespacechip_1_1_secure_message_codec.html#a8c74f179b64643d01e43d3ea231ef3b7" title="Decrypt the message, perform message integrity check, and decode the payload header." alt="" coords="5,71,192,112"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="chip::Platform::ScopedMemoryString::ScopedMemoryString" name="chip::Platform::ScopedMemoryString::ScopedMemoryString">
-<area shape="rect" id="node1" title="Create a ScopedMemoryString." alt="" coords="5,64,208,105"/>
-<area shape="rect" id="node2" href="$classchip_1_1_platform_1_1_scoped_memory_buffer.html#a54ab37617016db3f9cfcd01c302150e6" title=" " alt="" coords="256,5,459,47"/>
-<area shape="rect" id="node3" href="$namespacechip_1_1_platform.html#a3e0f7bf473695f636ba4bfd38fbe88d6" title="Copies a C&#45;style string." alt="" coords="269,71,445,98"/>
-<area shape="rect" id="node4" href="$classchip_1_1_platform_1_1_scoped_memory_buffer.html#a0de72ecf5e25a932a1e9b8518defe934" title=" " alt="" coords="256,123,459,164"/>
-</map>

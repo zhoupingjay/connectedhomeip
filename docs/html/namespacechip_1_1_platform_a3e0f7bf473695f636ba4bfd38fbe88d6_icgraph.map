@@ -1,6 +1,0 @@
-<map id="chip::Platform::CopyString" name="chip::Platform::CopyString">
-<area shape="rect" id="node1" title="Copies a C&#45;style string." alt="" coords="256,64,432,91"/>
-<area shape="rect" id="node2" href="$namespacechip_1_1_platform.html#a2df3dad9efdb3feeb75743f7f5411db4" title="Convenience method for CopyString to auto&#45;detect destination size." alt="" coords="19,5,195,32"/>
-<area shape="rect" id="node3" href="$namespacechip_1_1_platform.html#aa3d02605a2e4318d0229e0642e1fef2f" title="This function copies a C&#45;style string to memory newly allocated by Platform::MemoryAlloc()." alt="" coords="13,57,200,98"/>
-<area shape="rect" id="node4" href="$classchip_1_1_platform_1_1_scoped_memory_string.html#acd7a925f1ba15550c5ef872e967427ef" title="Create a ScopedMemoryString." alt="" coords="5,122,208,163"/>
-</map>

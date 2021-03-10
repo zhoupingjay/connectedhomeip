@@ -1,6 +1,0 @@
-<map id="chip::Transport::PeerConnections::FindPeerConnectionState" name="chip::Transport::PeerConnections::FindPeerConnectionState">
-<area shape="rect" id="node1" title="Get a peer connection state given a Node Id." alt="" coords="5,39,223,80"/>
-<area shape="rect" id="node2" href="$classchip_1_1_transport_1_1_peer_connection_state.html#a9c823a60ddb4b2b4d81b297aaecec6fd" title=" " alt="" coords="271,5,481,47"/>
-<area shape="rect" id="node3" href="$classchip_1_1_transport_1_1_peer_connection_state.html#aee71f955df99df466d4c83eed62026c4" title=" " alt="" coords="271,71,481,112"/>
-<area shape="rect" id="node4" href="$classchip_1_1_transport_1_1_peer_address.html#acfeea8dd646fd5ea29cc3d4448e3da7c" title=" " alt="" coords="529,71,721,112"/>
-</map>
