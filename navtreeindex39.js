@@ -1,5 +1,6 @@
 var NAVTREEINDEX39 =
 {
+"namespacemembers_func_f.html":[10,1,1,6],
 "namespacemembers_func_g.html":[10,1,1,7],
 "namespacemembers_func_h.html":[10,1,1,8],
 "namespacemembers_func_i.html":[10,1,1,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "qpg6100_2_c_h_i_p_platform_config_8h.html#a06c0373178ceae164c362949ccffcbce":[12,0,7,10,5,5],
 "qpg6100_2_c_h_i_p_platform_config_8h.html#a1b5e2848601c54fa6d66cfbe726dc101":[12,0,7,10,5,37],
 "qpg6100_2_c_h_i_p_platform_config_8h.html#a1e3f892a26cbf0a37737fb079bb01b13":[12,0,7,10,5,6],
-"qpg6100_2_c_h_i_p_platform_config_8h.html#a33ef68a3fe8194463ee35f37cb1b7689":[12,0,7,10,5,9],
-"qpg6100_2_c_h_i_p_platform_config_8h.html#a37f61d1eb2010ee0d310452850285f44":[12,0,7,10,5,21]
+"qpg6100_2_c_h_i_p_platform_config_8h.html#a33ef68a3fe8194463ee35f37cb1b7689":[12,0,7,10,5,9]
 };
