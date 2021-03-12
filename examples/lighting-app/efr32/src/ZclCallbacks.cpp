@@ -45,15 +45,7 @@ void emberAfPostAttributeChangeCallback(EndpointId endpoint, ClusterId clusterId
         EFR32_LOG("Unknown attribute ID: %d", attributeId);
         return;
     }
-
-    if (*value)
-    {
-        LightMgr().InitiateAction(AppEvent::kEventType_Light, LightingManager::ON_ACTION);
-    }
-    else
-    {
-        LightMgr().InitiateAction(AppEvent::kEventType_Light, LightingManager::OFF_ACTION);
-    }
+    // TODO: add code for on/off actions.
 }
 
 /** @brief OnOff Cluster Init
