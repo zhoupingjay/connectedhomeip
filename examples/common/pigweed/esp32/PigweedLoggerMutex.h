@@ -19,8 +19,8 @@
 
 #include "PigweedLogger.h"
 #include "RpcService.h"
-#include <FreeRTOS.h>
 #include "semphr.h"
+#include <FreeRTOS.h>
 
 namespace chip {
 namespace rpc {

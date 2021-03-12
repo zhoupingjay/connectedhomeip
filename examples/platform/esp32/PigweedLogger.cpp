@@ -15,15 +15,15 @@
  *    limitations under the License.
  */
 
-#include <FreeRTOS.h>
 #include "semphr.h"
+#include <FreeRTOS.h>
 #include <pw_hdlc/encoder.h>
 #include <pw_stream/sys_io_stream.h>
 
 namespace PigweedLogger {
 namespace {
 
-constexpr uint8_t kLogHdlcAddress = 1; //Send log messages to HDLC address 1 (other than RPC communication)
+constexpr uint8_t kLogHdlcAddress = 1;   // Send log messages to HDLC address 1 (other than RPC communication)
 constexpr size_t kWriteBufferSize = 128; // Buffer for constructing HDLC frames
 
 SemaphoreHandle_t esp_log_mutex;

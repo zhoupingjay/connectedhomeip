@@ -17,8 +17,8 @@
 
 #pragma once
 
-#include <FreeRTOS.h>
 #include "semphr.h"
+#include <FreeRTOS.h>
 
 namespace PigweedLogger {
 

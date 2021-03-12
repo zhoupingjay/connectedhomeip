@@ -39,7 +39,7 @@ const char * TAG = "chip-pigweed-app";
 bool uartInitialised = false;
 // ESP32 Logging
 
-extern "C" void __wrap_esp_log_write(esp_log_level_t level, const char *tag, const char *format, ...)
+extern "C" void __wrap_esp_log_write(esp_log_level_t level, const char * tag, const char * format, ...)
 {
     va_list v;
     va_start(v, format);
@@ -62,7 +62,7 @@ namespace {
 using std::byte;
 
 constexpr size_t kRpcStackSizeBytes = (4 * 1024);
-constexpr uint8_t kRpcTaskPriority = 5;
+constexpr uint8_t kRpcTaskPriority  = 5;
 
 TaskHandle_t rpcTaskHandle;
 
