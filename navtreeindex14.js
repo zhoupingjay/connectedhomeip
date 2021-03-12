@@ -1,5 +1,8 @@
 var NAVTREEINDEX14 =
 {
+"_session_establishment_delegate_8h.html":[11,0,11,24],
+"_session_establishment_delegate_8h_source.html":[11,0,11,24],
+"_setup_payload_8cpp.html":[11,0,8,16],
 "_setup_payload_8cpp.html#aa85eb7557597ed46b22fa073c47fb4ce":[11,0,8,16,0],
 "_setup_payload_8cpp.html#aa87b60dfea9a58f70ede40f400fbf2a9":[11,0,8,16,1],
 "_setup_payload_8h.html":[11,0,8,17],
@@ -246,8 +249,5 @@ var NAVTREEINDEX14 =
 "_system_stats_8cpp.html#a5ed48eb2929e181ae437c5a7c9691a6b":[11,0,9,18,1],
 "_system_stats_8cpp.html#a636fd36bc69cb8843d78512ef7bd005e":[11,0,9,18,5],
 "_system_stats_8cpp.html#aaa4a2e082c7285a19804885934e67a1b":[11,0,9,18,4],
-"_system_stats_8cpp.html#ac11a6ead5a3f81345cf4dcc3af072eab":[11,0,9,18,3],
-"_system_stats_8cpp.html#ac363efe49f650bf54fa2c54607335671":[11,0,9,18,0],
-"_system_stats_8cpp.html#ac931ecef29924dc29b8f46bf43186c9b":[11,0,9,18,2],
-"_system_stats_8h.html":[11,0,9,19]
+"_system_stats_8cpp.html#ac11a6ead5a3f81345cf4dcc3af072eab":[11,0,9,18,3]
 };

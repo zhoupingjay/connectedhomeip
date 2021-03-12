@@ -1,5 +1,8 @@
 var NAVTREEINDEX36 =
 {
+"commands_8cpp.html#a1076479436bb029399bb021897797696":[11,0,6,2,0,2],
+"commands_8cpp.html#ae41a30ed537bdbff756eaffad57f3dc4":[11,0,6,2,0,4],
+"commands_8cpp.html#af4cdec5e4780abf7f27694f5446f3977":[11,0,6,2,0,3],
 "commands_8h.html":[11,0,6,2,1],
 "commands_8h_source.html":[11,0,6,2,1],
 "commissioner_8py.html":[11,0,1,1,0,3,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX36 =
 "functions_func_p.html":[10,3,1,16],
 "functions_func_q.html":[10,3,1,17],
 "functions_func_r.html":[10,3,1,18],
-"functions_func_s.html":[10,3,1,19],
-"functions_func_t.html":[10,3,1,20],
-"functions_func_u.html":[10,3,1,21],
-"functions_func_v.html":[10,3,1,22]
+"functions_func_s.html":[10,3,1,19]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX40 =
 {
+"qpg6100_2_c_h_i_p_device_platform_event_8h.html#ae8584e0138538b418ca0f730e054ed59ab1dc817c28cd24fb6f200224bc922e7f":[11,0,7,10,4,1,22],
+"qpg6100_2_c_h_i_p_device_platform_event_8h.html#ae8584e0138538b418ca0f730e054ed59abe7c99303fe552560650a54ec86dcf2c":[11,0,7,10,4,1,7],
+"qpg6100_2_c_h_i_p_device_platform_event_8h.html#ae8584e0138538b418ca0f730e054ed59ac0ce3f502ae8e4c9b39685b95acefb89":[11,0,7,10,4,1,11],
 "qpg6100_2_c_h_i_p_device_platform_event_8h.html#ae8584e0138538b418ca0f730e054ed59adb5486aaf38fbf04af913848fb500427":[11,0,7,10,4,1,17],
 "qpg6100_2_c_h_i_p_device_platform_event_8h.html#ae8584e0138538b418ca0f730e054ed59ae037328251fb9a49318706eb30087f6e":[11,0,7,10,4,1,12],
 "qpg6100_2_c_h_i_p_device_platform_event_8h.html#ae8584e0138538b418ca0f730e054ed59ae17bcd28deaac5e0978f6a5dd79bcb63":[11,0,7,10,4,1,16],
@@ -246,8 +249,5 @@ var NAVTREEINDEX40 =
 "structchip_1_1_ble_1_1_chip_b_l_e_device_identification_info.html#ab857a57db690d86451f867612812b8ab":[10,0,1,1,10,10],
 "structchip_1_1_ble_1_1_chip_b_l_e_device_identification_info.html#abb50b51b3e05157b55ba66abcf6e6a5c":[10,0,1,1,10,4],
 "structchip_1_1_ble_1_1_chip_b_l_e_device_identification_info.html#ad6e0f8e52a13822d4e6dcb00f5d54671":[10,0,1,1,10,14],
-"structchip_1_1_ble_1_1_chip_b_l_e_device_identification_info.html#ae86be06e8f6e0f6b90f9d54546693bec":[10,0,1,1,10,7],
-"structchip_1_1_ble_1_1_chip_ble_u_u_i_d.html":[10,0,1,1,11],
-"structchip_1_1_ble_1_1_chip_ble_u_u_i_d.html#a3a0b89b6b6bdee0cc0cb21681a35af97":[10,0,1,1,11,0],
-"structchip_1_1_controller_1_1_serializable_device.html":[10,0,1,11,29]
+"structchip_1_1_ble_1_1_chip_b_l_e_device_identification_info.html#ae86be06e8f6e0f6b90f9d54546693bec":[10,0,1,1,10,7]
 };
